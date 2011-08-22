@@ -1,0 +1,1964 @@
+# Webalizer V2.01-10 Incremental Data - 08/21/2011 23:39:22
+2011 8 21 23 39 22
+4946 3727 357 144 54 131 665954718 1557 606 0
+29 2 250 1 21
+289 257 23418232 34 44 26
+378 306 47302360 26 151 34
+88 60 25672652 22 50 24
+154 109 29416643 24 101 30
+318 279 50932092 56 76 23
+191 152 6157301 24 67 29
+268 216 44813335 48 45 28
+289 121 5570088 48 115 35
+518 396 102276708 31 144 36
+370 329 52231691 33 53 25
+98 68 16935713 31 48 28
+105 77 31661553 24 31 25
+118 79 28133882 23 71 27
+162 119 10755274 26 89 28
+351 254 30728497 29 108 34
+84 45 23820432 22 35 29
+217 172 11459135 25 52 31
+355 240 42580783 28 70 31
+225 179 30999715 24 86 27
+136 99 13956814 21 31 22
+232 170 37131818 29 90 34
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+109 80 20773790 57
+163 84 15186820 123
+75 50 1201478 47
+89 60 9890186 50
+150 113 29914591 96
+73 34 438976 48
+218 89 23719686 113
+165 126 17910188 39
+161 124 30796418 67
+126 88 22377154 40
+543 484 35364142 71
+430 373 59195133 138
+227 167 32679629 67
+155 127 28719011 45
+268 198 62146610 71
+287 243 30758462 66
+157 114 41572089 47
+309 258 44350594 90
+412 278 32651693 79
+165 133 20940828 52
+343 279 35891333 39
+125 93 10874024 49
+126 89 42809941 31
+70 43 15791942 32
+0
+0
+0
+3727
+0
+0
+0
+0
+0
+297
+0
+0
+0
+0
+203
+0
+0
+0
+0
+0
+0
+719
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/photos/thumbs/powertex-13.jpg
+1 23 0 245105 0 0
+/photos/thumbs/encaustique-15.jpg
+1 21 0 203640 0 0
+/photos/thumbs/encaustique-6.jpg
+1 21 0 165200 0 0
+/photos/powertex-10.jpg
+1 3 0 221889 0 0
+/photos/encaustique-9.jpg
+1 4 0 242292 0 0
+/photos/thumbs/powertex-24.jpg
+1 19 0 438732 0 0
+/
+0 335 0 1351922 282 115
+/photos/powertex-21.jpg
+1 4 0 131692 0 0
+/img/bg-top.png
+1 74 0 169932 0 0
+/css/jquery.lightbox-0.5.css
+0 24 0 52348 0 0
+/photos/encaustique-16.jpg
+1 3 0 133635 0 0
+/photos/thumbs/powertex-12.jpg
+1 23 0 181372 0 0
+/photos/thumbs/encaustique-14.jpg
+1 21 0 178300 0 0
+/photos/thumbs/encaustique-5.jpg
+1 21 0 158720 0 0
+/temoignages.htm
+0 81 0 448704 22 19
+/photos/encaustique-8.jpg
+1 4 0 273340 0 0
+/photos/thumbs/powertex-23.jpg
+1 19 0 190044 0 0
+/photos/powertex-20.jpg
+1 4 0 98032 0 0
+/images/cours/force_de_la_nature.png
+1 39 0 860496 0 0
+/img/bg-bottom.png
+1 73 0 62846 0 0
+/cours_inscription.php
+0 197 0 960714 37 36
+/photos/encaustique-15.jpg
+1 3 0 170928 0 0
+/photos/thumbs/powertex-11.jpg
+1 21 0 141300 0 0
+/photos/thumbs/encaustique-13.jpg
+1 21 0 143600 0 0
+/photos/thumbs/encaustique-4.jpg
+1 21 0 145840 0 0
+/photos/encaustique-7.jpg
+1 4 0 256716 0 0
+/photos/thumbs/powertex-22.jpg
+1 19 0 139302 0 0
+/photos/encaustique-14.jpg
+1 4 0 223888 0 0
+/js/jquery.lightbox-0.5.min.js
+0 37 0 362484 0 0
+/photos/thumbs/powertex-10.jpg
+1 21 0 567580 0 0
+/photos/thumbs/encaustique-12.jpg
+1 21 0 148840 0 0
+/photos/thumbs/encaustique-3.jpg
+1 21 0 209340 0 0
+/photos/encaustique-6.jpg
+1 4 0 213668 0 0
+/photos/thumbs/powertex-21.jpg
+1 20 0 214719 0 0
+/img/logo.png
+1 74 0 1689460 0 0
+/photos/encaustique-13.jpg
+1 4 0 178876 0 0
+/photos/thumbs/encaustique-11.jpg
+1 21 0 139760 0 0
+/photos/thumbs/encaustique-2.jpg
+1 21 0 195180 0 0
+/photos/encaustique-5.jpg
+1 4 0 189980 0 0
+/photos/thumbs/powertex-20.jpg
+1 20 0 221502 0 0
+/presentation.htm
+0 84 0 219640 26 12
+/img/triangle.png
+1 52 0 5687 0 0
+/images/cours/rencontre_soi.png
+1 39 0 774345 0 0
+/photos/encaustique-12.jpg
+1 4 0 138172 0 0
+/photos/thumbs/encaustique-10.jpg
+1 21 0 173660 0 0
+/photos/thumbs/encaustique-1.jpg
+1 21 0 241120 0 0
+/photos/powertex-9.jpg
+1 2 0 120392 0 0
+/photos/encaustique-4.jpg
+1 4 0 171416 0 0
+/photos/creation-9.jpg
+1 4 0 202204 0 0
+/images/cours/vie_en_plus.png
+1 40 0 797120 0 0
+/photos/encaustique-11.jpg
+1 3 0 98448 0 0
+/photos/powertex-8.jpg
+1 2 0 144744 0 0
+/photos/encaustique-3.jpg
+1 4 0 252224 0 0
+/photos/creation-8.jpg
+1 2 0 209570 0 0
+/img/quote-bottom.png
+1 28 0 14112 0 0
+/css/style.css
+0 116 0 619636 0 0
+/photos/encaustique-10.jpg
+1 3 0 154065 0 0
+/photos/powertex-7.jpg
+1 2 0 80730 0 0
+/photos/encaustique-2.jpg
+1 5 0 281045 0 0
+/photos/powertex-19.jpg
+1 4 0 144404 0 0
+/img/button-full.png
+1 37 0 92870 0 0
+/img/box-top.png
+1 37 0 124579 0 0
+/photos/thumbs/powertex-9.jpg
+1 21 0 160460 0 0
+/photos/creation-7.jpg
+1 2 0 168444 0 0
+/img/circle.png
+1 74 0 7502440 0 0
+/photos/thumbs/creation-9.jpg
+1 21 0 99500 0 0
+/photos/powertex-6.jpg
+1 4 0 323492 0 0
+/photos/encaustique-1.jpg
+1 5 0 424585 0 0
+/photos/powertex-18.jpg
+1 4 0 206672 0 0
+/favicon.ico
+0 74 0 252361 0 0
+/photos/thumbs/powertex-8.jpg
+1 21 0 340880 0 0
+/images/cours/encaustique.png
+1 39 0 818454 0 0
+/photos/creation-6.jpg
+1 2 0 116676 0 0
+/photos/thumbs/creation-8.jpg
+1 21 0 74060 0 0
+/art-therapie.htm
+0 100 0 471510 34 21
+/qui-suis-je.htm
+0 92 0 326832 22 17
+/photos/powertex-5.jpg
+1 4 0 278368 0 0
+/photos/powertex-17.jpg
+1 4 0 293372 0 0
+/photos/thumbs/powertex-7.jpg
+1 21 0 249020 0 0
+/photos/creation-5.jpg
+1 2 0 183354 0 0
+/photos/thumbs/creation-7.jpg
+1 21 0 108360 0 0
+/images/thumbs-inline.jpg
+1 63 0 1375821 0 0
+/images/lightbox-blank.gif
+1 3 0 129 0 0
+/images/cours/parenthese_equilibre.png
+1 39 0 664014 0 0
+/video/video.ogv
+0 94 0 355971421 0 0
+/photos/thumbs/powertex-19.jpg
+1 20 0 251902 0 0
+/photos/powertex-4.jpg
+1 3 0 302148 0 0
+/photos/powertex-16.jpg
+1 3 0 131118 0 0
+/img/button.png
+1 37 0 105117 0 0
+/photos/thumbs/powertex-6.jpg
+1 21 0 614260 0 0
+/photos/creation-4.jpg
+1 2 0 157024 0 0
+/photos/thumbs/creation-6.jpg
+1 21 0 97800 0 0
+/images/cours/createur_ma_vie.png
+1 43 0 908289 0 0
+/images/cours/renforcer_confiance.png
+1 38 0 758784 0 0
+/images/lightbox-btn-close.gif
+1 3 0 2100 0 0
+/photos/thumbs/powertex-18.jpg
+1 20 0 270560 0 0
+/creations.htm
+0 88 0 705832 27 17
+/photos/powertex-3.jpg
+1 4 0 206816 0 0
+/photos/powertex-15.jpg
+1 3 0 279201 0 0
+/images/lightbox-ico-loading.gif
+1 3 0 11970 0 0
+/photos/thumbs/powertex-5.jpg
+1 21 0 533880 0 0
+/photos/creation-3.jpg
+1 2 0 42342 0 0
+/photos/thumbs/creation-5.jpg
+1 21 0 94360 0 0
+/js/jquery-1.4.2.min.js
+0 70 0 4850087 0 0
+/photos/thumbs/powertex-17.jpg
+1 21 0 775840 0 0
+/photos/powertex-2.jpg
+1 4 0 286100 0 0
+/photos/powertex-14.jpg
+1 3 0 136305 0 0
+/img/quote-top.png
+1 28 0 14252 0 0
+/photos/thumbs/powertex-4.jpg
+1 21 0 776280 0 0
+/photos/creation-2.jpg
+1 2 0 89966 0 0
+/img/bg.png
+1 74 0 6120 0 0
+/photos/thumbs/creation-4.jpg
+1 21 0 135180 0 0
+/video/video.mp4
+0 161 0 249721855 0 0
+/contact.htm
+0 85 0 436400 28 16
+/photos/thumbs/powertex-16.jpg
+1 21 0 292960 0 0
+/photos/thumbs/encaustique-9.jpg
+1 21 0 186780 0 0
+/photos/powertex-1.jpg
+1 4 0 317976 0 0
+/photos/powertex-13.jpg
+1 3 0 154368 0 0
+/photos/thumbs/powertex-3.jpg
+1 21 0 166140 0 0
+/photos/creation-1.jpg
+1 2 0 101032 0 0
+/photos/powertex-24.jpg
+1 3 0 166923 0 0
+/photos/thumbs/creation-3.jpg
+1 21 0 84580 0 0
+/js/jquery.cycle.min.js
+0 64 0 1181290 0 0
+/images/lightbox-btn-prev.gif
+1 3 0 2496 0 0
+/photos/thumbs/powertex-15.jpg
+1 22 0 737667 0 0
+/photos/thumbs/encaustique-8.jpg
+1 21 0 201740 0 0
+/photos/powertex-12.jpg
+1 3 0 231237 0 0
+/photos/thumbs/powertex-2.jpg
+1 21 0 180540 0 0
+/cours.htm
+0 117 0 2311416 44 26
+/detente-creative.htm
+0 85 0 482112 21 14
+/photos/powertex-23.jpg
+1 3 0 79854 0 0
+/images/video.jpg
+1 62 0 1378122 0 0
+/photos/thumbs/creation-2.jpg
+1 21 0 82320 0 0
+/images/cours/powertex.png
+1 39 0 740181 0 0
+/img/box-bottom.png
+1 37 0 28083 0 0
+/photos/thumbs/powertex-14.jpg
+1 22 0 146034 0 0
+/photos/thumbs/encaustique-16.jpg
+1 21 0 168120 0 0
+/photos/thumbs/encaustique-7.jpg
+1 21 0 193980 0 0
+/photos/powertex-11.jpg
+1 3 0 142884 0 0
+/flash/player.swf
+0 56 0 4510272 0 0
+/photos/thumbs/powertex-1.jpg
+1 21 0 278820 0 0
+/photos/powertex-22.jpg
+1 4 0 150320 0 0
+/photos/thumbs/creation-1.jpg
+1 21 0 65860 0 0
+/images/lightbox-btn-next.gif
+1 2 0 1624 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-207-46-199-31.search.msn.com
+0 5 4 103633 1 1313577094
+/art-therapie.htm
+p5dc638c9.dip.t-dialin.net
+0 1 1 5455 1 1312225544
+/contact.htm
+97-56.76-83.cust.bluewin.ch
+0 22 22 431819 1 1313427414
+/cours.htm
+crawl-66-249-72-48.googlebot.com
+0 1 0 969 0 0
+-
+adsl-84-227-232-165.adslplus.ch
+0 101 100 21908909 1 1312722093
+/creations.htm
+msnbot-65-52-108-149.search.msn.com
+0 2 0 969 1 1313770126
+/
+msnbot-65-52-109-17.search.msn.com
+0 2 0 969 1 1312703450
+/presentation.htm
+157.55.16.221
+0 2 0 969 1 1313912326
+/
+77-58-98-185.dclient.hispeed.ch
+0 62 50 19307023 2 1313271146
+/temoignages.htm
+crawl-66-249-66-56.googlebot.com
+0 1 1 47495 0 0
+-
+142-217-16-86.telebecinternet.net
+0 25 25 440852 1 1313791733
+/contact.htm
+p5dc6217f.dip.t-dialin.net
+0 1 1 4534 1 1312360143
+/
+natcrawlbloc02-13.net.s1.fti.net
+0 18 14 59596 12 1313820582
+/art-therapie.htm
+crawl-66-249-72-107.googlebot.com
+0 1 1 5627 1 1312837034
+/cours_inscription.php
+crawl-66-249-66-215.googlebot.com
+0 1 1 7442 0 0
+-
+3.173.45.96-dedicated.multacom.com
+0 2 1 5508 1 1313768698
+/
+crawl-66-249-66-5.googlebot.com
+0 3 1 4828 1 1313833160
+/presentation.htm
+msnbot-65-52-110-29.search.msn.com
+0 2 0 969 1 1312601120
+/contact.htm
+crawl-66-249-71-249.googlebot.com
+0 1 1 2510 0 0
+-
+14-145.77-83.cust.bluewin.ch
+0 26 25 12736929 1 1312903357
+/
+69.171.224.250
+0 1 1 21123 0 0
+-
+user-69-1-22-174.knology.net
+0 2 1 5503 1 1312774908
+/
+92.156.221.87.dynamic.jazztel.es
+0 31 25 9653506 1 1312894565
+/temoignages.htm
+msnbot-65-52-110-78.search.msn.com
+0 2 0 969 1 1312986170
+/presentation.htm
+crawl-66-249-66-169.googlebot.com
+0 1 1 6988 0 0
+-
+crawl-66-249-66-71.googlebot.com
+0 1 1 23319 0 0
+-
+crawl-66-249-66-16.googlebot.com
+0 1 1 8406 0 0
+-
+95.138.113.143
+0 13 13 246839 1 1312184990
+/detente-creative.htm
+msnbot-65-52-110-47.search.msn.com
+0 1 0 0 1 1313238171
+/detente-creative.htm
+msnbot-207-46-12-112.search.msn.com
+0 5 4 103633 1 1313847881
+/art-therapie.htm
+natcrawlbloc01.net.m1.fti.net
+0 10 7 34665 7 1313800925
+/
+178-24-159-165-dynip.superkabel.de
+0 1 1 5952 1 1313912608
+/detente-creative.htm
+crawl-66-249-72-85.googlebot.com
+0 1 1 4539 1 1313766007
+/
+gprs41.swisscom-mobile.ch
+0 32 32 4936722 1 1313001157
+/cours.htm
+crawl-66-249-66-27.googlebot.com
+0 4 4 136289 0 0
+-
+crawl-66-249-66-162.googlebot.com
+0 1 1 34543 0 0
+-
+pool-173-55-7-76.lsanca.fios.verizon.net
+0 2 1 5508 1 1313484302
+/
+150-222.62-188.cust.bluewin.ch
+0 109 109 24038160 1 1313441621
+/temoignages.htm
+ks311135.kimsufi.com
+0 2 2 0 2 1313301624
+/
+178-25-230-211-dynip.superkabel.de
+0 2 1 5503 1 1312187504
+/
+a89-182-9-31.net-htp.de
+0 1 1 5952 1 1313253003
+/detente-creative.htm
+crawl-66-249-66-173.googlebot.com
+0 1 1 4539 1 1313707260
+/
+ycar2.mobile.bf1.yahoo.com
+0 2 2 7991 1 1312377337
+/
+crawl-66-249-66-20.googlebot.com
+0 1 1 80873 0 0
+-
+crawl-66-249-66-184.googlebot.com
+0 3 0 2907 0 0
+-
+126-4.79-83.cust.bluewin.ch
+0 13 13 8701164 1 1313235388
+/
+105-4.77-83.cust.bluewin.ch
+0 30 30 15747475 1 1312927583
+/cours.htm
+crawl-66-249-66-111.googlebot.com
+0 2 1 5503 1 1312881030
+/
+190-11-94-178.pool.ukrtel.net
+0 2 1 5508 1 1313583257
+/
+msnbot-65-52-110-83.search.msn.com
+0 2 0 969 1 1312474917
+/
+crawl-66-249-66-219.googlebot.com
+0 1 1 56976 0 0
+-
+207.46.199.37
+0 2 1 3859 1 1313492450
+/presentation.htm
+msnbot-65-52-110-92.search.msn.com
+0 2 0 969 1 1312370570
+/cours.htm
+crawl-66-249-66-53.googlebot.com
+0 3 3 121012 0 0
+-
+out-sw250.tfbnw.net
+0 2 1 4539 2 1313404876
+/
+acaen-156-1-77-86.w90-51.abo.wanadoo.fr
+0 93 92 13666419 1 1313845129
+/contact.htm
+207.46.199.45
+0 2 1 4683 1 1312827290
+/qui-suis-je.htm
+207.46.199.46
+0 2 0 969 1 1313758457
+/presentation.htm
+crawl-66-249-66-212.googlebot.com
+0 6 5 161201 2 1312477741
+/creations.htm
+dslb-088-078-139-160.pools.arcor-ip.net
+0 31 25 9653517 1 1313768237
+/
+crawl-66-249-71-57.googlebot.com
+0 1 1 5418 0 0
+-
+207.46.199.55
+0 2 1 23631 1 1312760660
+/cours.htm
+195.141.126.4
+0 41 39 250138 3 1313285441
+/cours_inscription.php
+86-78-ftth.onsneteindhoven.nl
+0 2 1 5508 1 1313858605
+/
+crawl-66-249-71-167.googlebot.com
+0 1 0 0 1 1312302008
+/
+95-27-36-197.broadband.corbina.ru
+0 1 1 23319 0 0
+-
+ip-95-220-165-1.bb.netbynet.ru
+0 1 1 86736 0 0
+-
+89-178-234-35.broadband.corbina.ru
+0 1 1 4539 1 1313000624
+/
+208-115-111-67-reverse.wowrack.com
+0 222 21 328443 87 1313961616
+/
+crawl-66-249-66-13.googlebot.com
+0 2 2 63901 0 0
+-
+crawl-66-249-66-177.googlebot.com
+0 2 1 86736 1 1312981481
+/creations.htm
+95-25-90-105.broadband.corbina.ru
+0 2 2 86826 0 0
+-
+crawl-66-249-66-24.googlebot.com
+0 1 1 79494 0 0
+-
+95.143.198.91
+0 31 25 9653517 1 1313899054
+/temoignages.htm
+95.143.198.92
+0 31 25 9653517 1 1313741624
+/
+p5dc61c57.dip.t-dialin.net
+0 1 1 5455 1 1313327155
+/contact.htm
+crawl-66-249-71-250.googlebot.com
+0 1 1 21123 0 0
+-
+msnbot-207-46-12-238.search.msn.com
+0 2 0 969 1 1312648646
+/creations.htm
+s15525901.onlinehome-server.info
+0 5 5 22685 5 1313737648
+/
+crawl-66-249-66-104.googlebot.com
+0 1 1 22064 0 0
+-
+crawl-66-249-66-35.googlebot.com
+0 2 0 1938 0 0
+-
+crawl-66-249-66-170.googlebot.com
+0 1 1 4539 1 1313499175
+/
+189-188.78-83.cust.bluewin.ch
+0 1 1 3457 0 0
+-
+a89-182-33-206.net-htp.de
+0 1 1 8504 1 1313893463
+/creations.htm
+crawl-66-249-71-206.googlebot.com
+0 1 1 9339 0 0
+-
+net66-219-58-43.static-customer.corenap.com
+0 2 1 5503 1 1312802140
+/
+msnbot-65-52-109-16.search.msn.com
+0 4 1 6472 2 1313454207
+/contact.htm
+crawl-66-249-66-46.googlebot.com
+0 1 0 969 0 0
+-
+bigfinder.de
+0 6 6 27229 4 1313943253
+/
+crawl-66-249-66-181.googlebot.com
+0 3 3 28052 2 1312971603
+/
+230-246.62-81.cust.bluewin.ch
+0 37 31 496410 1 1313690545
+/cours.htm
+168-47.202-62.fix.bluewin.ch
+0 88 88 5426170 1 1313405141
+/presentation.htm
+114.80.93.71
+0 36 18 99099 18 1313879179
+/
+woclu2.informatik.uni-leipzig.de
+0 3 3 18990 3 1312327879
+/creations.htm
+zulu1471.server4you.de
+0 1 1 4539 1 1313182468
+/
+crawl-66-249-71-217.googlebot.com
+0 2 2 15599 0 0
+-
+45-253.76-83.cust.bluewin.ch
+0 88 88 5341437 1 1312885024
+/contact.htm
+crawl-66-249-66-57.googlebot.com
+0 2 1 69304 0 0
+-
+85.218.68.136
+0 153 88 5428735 1 1313691604
+/temoignages.htm
+163-132.196-178.cust.bluewin.ch
+0 30 30 10943313 1 1312717549
+/cours.htm
+crawl-66-249-66-216.googlebot.com
+0 3 2 71472 0 0
+-
+172-47.76-83.cust.bluewin.ch
+0 14 14 10682749 1 1313533165
+/
+143.82.nat.itkm.ru
+0 1 1 6388 0 0
+-
+207.46.204.177
+0 2 0 969 1 1313238890
+/
+msnbot-207-46-204-137.search.msn.com
+0 5 4 87344 2 1312335213
+/cours.htm
+static.dnsarrow.com
+0 31 25 9653506 1 1312361673
+/temoignages.htm
+207.46.204.180
+0 2 0 969 1 1313236520
+/presentation.htm
+desktop-153.tk.informatik.tu-darmstadt.de
+0 4 4 39055 4 1313934384
+/cours.htm
+207.46.204.182
+0 2 0 969 1 1313966146
+/
+msnbot-65-52-110-189.search.msn.com
+0 2 0 969 1 1312285280
+/
+207.46.204.187
+0 2 1 3859 1 1312794057
+/presentation.htm
+207.46.204.189
+0 2 1 5508 1 1313086941
+/
+s2.960.clients.serverdeals.org
+0 11 9 66626 1 1313371450
+/temoignages.htm
+msnbot-65-52-110-37.search.msn.com
+0 2 0 969 1 1312483700
+/temoignages.htm
+xdsl-188-154-55-156.adslplus.ch
+0 60 60 914021 1 1312966461
+/creations.htm
+msnbot-65-52-108-144.search.msn.com
+0 4 1 7008 2 1313819099
+/
+207.46.204.190
+0 2 0 969 1 1312555040
+/
+207.46.204.192
+0 4 1 5652 2 1313621580
+/qui-suis-je.htm
+pd9f99c5c.dip.t-dialin.net
+0 1 1 4539 1 1313498483
+/
+ip-83-134-232-98.dsl.scarlet.be
+0 14 14 252345 1 1312838932
+/art-therapie.htm
+crawl-66-249-66-72.googlebot.com
+0 1 1 2841 0 0
+-
+176.14.227.87
+0 1 1 938 0 0
+-
+static.78.72.4.46.clients.your-server.de
+0 7 7 35173 1 1313586969
+/art-therapie.htm
+crawl-66-249-66-17.googlebot.com
+0 5 5 181107 0 0
+-
+193.252.118.173
+0 11 7 42061 7 1313730178
+/contact.htm
+193.252.118.174
+0 10 7 28905 7 1313903254
+/qui-suis-je.htm
+crawl-66-249-66-163.googlebot.com
+0 4 4 153250 0 0
+-
+92.f5.344a.static.theplanet.com
+0 1 1 4534 1 1312701837
+/
+b3091110.crawl.yahoo.net
+0 98 61 389601 35 1313966997
+/qui-suis-je.htm
+msnbot-65-52-110-24.search.msn.com
+0 2 0 969 1 1313233579
+/art-therapie.htm
+crawl-66-249-66-108.googlebot.com
+0 1 1 19968 0 0
+-
+77-20-40-169-dynip.superkabel.de
+0 15 13 106770 13 1313929280
+/creations.htm
+crawl-66-249-66-10.googlebot.com
+0 1 1 86736 0 0
+-
+crawl-66-249-66-39.googlebot.com
+0 1 0 0 1 1313920282
+/
+77.92.233.198
+0 2 1 5503 1 1312215365
+/
+217.215.218.87.dynamic.jazztel.es
+0 31 25 9653506 1 1312564800
+/temoignages.htm
+ns213348.ovh.net
+0 1 1 4539 1 1312973674
+/
+static.153.124.40.188.clients.your-server.de
+0 5 1 8410 1 1312613944
+/
+crawl-66-249-66-185.googlebot.com
+0 2 2 21560 1 1312446607
+/
+msnbot-65-52-110-42.search.msn.com
+0 4 2 10191 2 1313660161
+/
+adsl-84-227-217-88.adslplus.ch
+0 24 24 10784365 1 1312677327
+/detente-creative.htm
+msnbot-65-52-110-82.search.msn.com
+0 2 1 5508 1 1313324150
+/
+129-0.1-85.cust.bluewin.ch
+0 27 27 549991 1 1313420777
+/cours.htm
+sticker01.yandex.ru
+0 6 4 20084 2 1313580131
+/
+157.55.18.11
+0 2 0 969 1 1312448906
+/presentation.htm
+157.55.18.12
+0 2 0 969 1 1313938577
+/
+crawl-66-249-66-112.googlebot.com
+0 1 1 759 0 0
+-
+157.55.18.13
+0 2 0 969 1 1313167309
+/
+95-26-68-155.broadband.corbina.ru
+0 1 1 4534 1 1312161866
+/
+msnbot-65-52-110-51.search.msn.com
+0 2 0 969 1 1313484860
+/art-therapie.htm
+spider-en.yandex.com
+0 1 1 4539 1 1313094705
+/
+crawl-66-249-66-43.googlebot.com
+0 1 0 969 0 0
+-
+212-47-191-36.static.cablecom.ch
+0 40 40 1385660 1 1312208141
+/
+crawl-66-249-71-36.googlebot.com
+0 1 1 60573 0 0
+-
+212-198-24-78.rev.numericable.fr
+0 20 20 10782079 1 1313167175
+/art-therapie.htm
+msnbot-65-52-110-20.search.msn.com
+0 2 0 969 1 1312879892
+/
+crawl-66-249-66-54.googlebot.com
+0 3 2 15230 0 0
+-
+213.186.120.196.utel.net.ua
+0 14 11 62452 2 1313474943
+/cours_inscription.php
+web02.zillgen-gruppe.de
+0 50 1 52020 1 1313372062
+-
+jyxo-crawler19.streaming.cesnet.cz
+0 2 1 5503 1 1312454899
+/
+crawl-66-249-66-213.googlebot.com
+0 1 1 72372 0 0
+-
+sls-gb15p2.dca2.superb.net
+0 1 1 4539 1 1313449414
+/
+95-26-88-161.broadband.corbina.ru
+0 4 3 180829 0 0
+-
+176.14.130.250
+0 1 1 6388 0 0
+-
+194.230.156.100
+0 36 35 9035306 1 1313592212
+/cours.htm
+crawl-66-249-66-145.googlebot.com
+0 1 1 4539 1 1313850434
+/
+msnbot-65-52-109-19.search.msn.com
+0 5 3 15545 2 1313242700
+/
+c-p130-uc0303-05.webazilla.com
+0 3 3 14152 1 1312356587
+/qui-suis-je.htm
+77-20-40-89-dynip.superkabel.de
+0 1 1 5070 1 1313780420
+/art-therapie.htm
+proxy3.vd.ch
+0 122 122 22602247 2 1312889880
+/qui-suis-je.htm
+a122059.upc-a.chello.nl
+0 31 25 9653517 1 1313195702
+/temoignages.htm
+crawl-66-249-71-179.googlebot.com
+0 1 0 0 1 1312541979
+/
+crawl-66-249-66-167.googlebot.com
+0 2 2 16198 0 0
+-
+95-24-230-241.broadband.corbina.ru
+0 1 1 110330 0 0
+-
+189.red-83-40-198.dynamicip.rima-tde.net
+0 31 25 9653517 1 1313689548
+/qui-suis-je.htm
+2.173.45.96-dedicated.multacom.com
+0 6 4 20079 3 1313250905
+/
+crawl-66-249-66-14.googlebot.com
+0 1 1 8915 0 0
+-
+gprs05.swisscom-mobile.ch
+0 10 10 219659 1 1312663592
+/
+crawl-66-249-66-25.googlebot.com
+0 2 2 184938 0 0
+-
+88.214.193.166
+0 3 3 13612 3 1313455652
+/
+217.82.63.81.cust.bluewin.ch
+0 1 0 0 0 0
+-
+natcrawlbloc05-36.net.m1.fti.net
+0 11 7 63404 7 1313819831
+/creations.htm
+crawl-66-249-66-105.googlebot.com
+0 1 1 20986 0 0
+-
+dnsdigger01.70.229.38.in-addr.arpa
+0 1 1 4534 1 1312461702
+/
+124.115.6.12
+0 12 0 11628 0 0
+-
+crawl-66-249-66-171.googlebot.com
+0 2 1 5070 2 1313846058
+/art-therapie.htm
+232-74.78-83.cust.bluewin.ch
+0 11 11 286494 1 1312537297
+/
+crawl-66-249-71-207.googlebot.com
+0 2 2 104341 0 0
+-
+natcrawlbloc03.net.m1.fti.net
+0 10 7 44571 7 1313894163
+/detente-creative.htm
+crawl-66-249-66-47.googlebot.com
+0 1 0 969 0 0
+-
+crawl-66-249-72-21.googlebot.com
+0 2 1 5503 1 1312863204
+/
+a89-182-13-25.net-htp.de
+0 1 1 5070 1 1313083548
+/art-therapie.htm
+crawl-66-249-71-194.googlebot.com
+0 1 0 969 0 0
+-
+90-171-111-65.serverpronto.com
+0 2 1 5503 1 1312625220
+/
+crawl-66-249-66-182.googlebot.com
+0 2 1 5701 2 1313237109
+/
+modulosempresarios.com
+0 1 1 4539 1 1313352596
+/
+crawl-66-249-66-58.googlebot.com
+0 5 5 135912 0 0
+-
+msnbot-65-52-110-27.search.msn.com
+0 2 0 969 1 1312750370
+/qui-suis-je.htm
+imparser00.yandex.ru
+0 4 0 1938 0 0
+-
+77-20-40-173-dynip.superkabel.de
+0 16 13 116227 13 1313900239
+/presentation.htm
+crawl-66-249-66-217.googlebot.com
+0 1 1 10467 0 0
+-
+crawl-66-249-66-40.googlebot.com
+0 1 1 4539 1 1313817803
+/
+121-98.3-85.cust.bluewin.ch
+0 16 16 10667799 1 1312908458
+/qui-suis-je.htm
+crawl-66-249-71-211.googlebot.com
+0 1 1 73963 0 0
+-
+crawl-66-249-66-51.googlebot.com
+0 4 3 61474 0 0
+-
+208.80.194.26
+0 4 4 18151 4 1313510216
+/
+crawl-66-249-71-44.googlebot.com
+0 2 2 73238 0 0
+-
+208.80.194.27
+0 1 1 4539 1 1313672655
+/
+208.80.194.29
+0 2 2 9073 2 1313845169
+/
+81.13.157.93
+0 8 8 154002 1 1313098106
+/contact.htm
+alyon-552-1-32-246.w80-9.abo.wanadoo.fr
+0 23 23 431942 1 1312911852
+/cours.htm
+208.80.194.33
+0 2 2 9073 2 1313106640
+/
+208.80.194.34
+0 2 2 9073 2 1312979576
+/
+msnbot-65-52-109-60.search.msn.com
+0 2 0 969 1 1312625009
+/cours.htm
+208.80.194.37
+0 1 1 4534 1 1312396132
+/
+crawl-66-249-71-55.googlebot.com
+0 1 0 969 0 0
+-
+msnbot-65-52-110-54.search.msn.com
+0 2 0 969 1 1312189129
+/presentation.htm
+crawl-66-249-66-73.googlebot.com
+0 2 0 969 1 1312839069
+/
+msnbot-65-52-110-23.search.msn.com
+0 4 0 1938 2 1313766347
+/
+static.119.0.9.176.clients.your-server.de
+0 78 75 224280 1 1312284666
+/cours_inscription.php
+msnbot-65-52-110-144.search.msn.com
+0 2 0 969 1 1312356680
+/art-therapie.htm
+crawl-66-249-66-164.googlebot.com
+0 1 1 21171 0 0
+-
+crawl1.majestic12.co.uk
+0 2 1 5503 1 1312508734
+/
+msnbot-65-52-110-72.search.msn.com
+0 2 0 969 1 1313524882
+/creations.htm
+mail.ittenbrechbuehl.ch
+0 12 12 288613 1 1312458886
+/contact.htm
+e176110015.adsl.alicedsl.de
+0 90 88 3571794 1 1312784200
+/cours_inscription.php
+crawl-66-249-66-11.googlebot.com
+0 1 0 0 1 1312327942
+/cours.htm
+77-20-40-82-dynip.superkabel.de
+0 10 9 62435 9 1313643367
+/presentation.htm
+crawl-66-249-66-175.googlebot.com
+0 1 1 4539 1 1313072325
+/
+niederhausen.tm.informatik.uni-leipzig.de
+0 14 12 74344 11 1313969962
+/art-therapie.htm
+msnbot-65-52-110-41.search.msn.com
+0 2 1 3859 1 1312242050
+/presentation.htm
+85.218.105.106
+0 60 60 26888581 3 1312409025
+/
+183.16.202.62.fix.bluewin.ch
+0 207 207 45572975 3 1313168063
+/cours.htm
+crawl-66-249-71-70.googlebot.com
+0 1 1 30713 0 0
+-
+crawl-66-249-66-22.googlebot.com
+0 3 3 197187 0 0
+-
+69-251.195-178.cust.bluewin.ch
+0 28 28 573346 1 1312839869
+/cours.htm
+adsl-84-227-16-188.adslplus.ch
+0 69 69 11361382 1 1313693442
+/qui-suis-je.htm
+crawl-66-249-66-186.googlebot.com
+0 1 0 0 1 1312714590
+/
+adsl-62-167-69-201.adslplus.ch
+0 28 27 16316947 1 1313057411
+/contact.htm
+crawl-66-249-66-102.googlebot.com
+0 1 0 969 0 0
+-
+54-161.107-92.cust.bluewin.ch
+0 2 2 10140 1 1312379913
+/art-therapie.htm
+44-23.79-83.cust.bluewin.ch
+0 88 88 1219228 1 1312279459
+/contact.htm
+crawl-66-249-66-113.googlebot.com
+0 1 0 969 0 0
+-
+223.red.159.225.212.user.ptvtelecom.com
+0 62 50 19307012 2 1312433386
+/temoignages.htm
+net66-219-58-42.static-customer.corenap.com
+0 2 1 5508 1 1313260495
+/
+ip-95-221-68-236.bb.netbynet.ru
+0 1 1 24845 0 0
+-
+dslb-088-069-133-133.pools.arcor-ip.net
+0 1 1 4539 1 1313920839
+/
+207.46.204.233
+0 2 0 969 1 1312380680
+/detente-creative.htm
+crawl-66-249-66-44.googlebot.com
+0 1 0 969 0 0
+-
+88.131.106.22
+0 2 1 4683 1 1312800357
+/qui-suis-je.htm
+207.46.204.238
+0 2 0 969 1 1312808610
+/
+cust.dyn.84-253-31-61.cybernet.ch
+0 81 80 1106461 1 1312884616
+/
+crawl-66-249-71-37.googlebot.com
+0 1 1 44719 0 0
+-
+crawl-66-249-71-136.googlebot.com
+0 1 0 969 0 0
+-
+178.239.58.142
+0 2 1 5508 1 1313127878
+/
+spider67.yandex.ru
+0 47 23 4350203 27 1313940516
+/cours.htm
+mon75-8-82-230-180-16.fbx.proxad.net
+0 15 15 15499493 1 1313709215
+/
+crawl-66-249-66-55.googlebot.com
+0 1 1 12056 0 0
+-
+dhcp-077-248-024-162.chello.nl
+0 31 25 9653506 1 1312518726
+/art-therapie.htm
+69.171.229.246
+0 1 1 23358 0 0
+-
+69.171.229.247
+0 1 1 21123 0 0
+-
+41.248.191.15
+0 14 14 15604247 1 1312296844
+/
+crawl-66-249-66-214.googlebot.com
+0 4 3 51627 0 0
+-
+193.138.213.197
+0 6 3 4225787 1 1312896220
+/detente-creative.htm
+crawl-66-249-66-4.googlebot.com
+0 1 0 0 1 1313484140
+/
+adsl-188-155-201-178.adslplus.ch
+0 88 88 5512011 1 1312198743
+/creations.htm
+ip-46-73-90-112.bb.netbynet.ru
+0 1 1 6388 0 0
+-
+abordeaux-258-1-96-125.w86-201.abo.wanadoo.fr
+0 26 26 438905 1 1313008391
+/detente-creative.htm
+crawl-66-249-66-168.googlebot.com
+0 3 1 9677 0 0
+-
+224-142.195-178.cust.bluewin.ch
+0 95 95 5623214 1 1312626911
+/qui-suis-je.htm
+crawl-66-249-66-70.googlebot.com
+0 1 0 969 0 0
+-
+crawl-66-249-66-99.googlebot.com
+0 4 3 45286 1 1312715579
+/
+crawl-66-249-66-15.googlebot.com
+0 2 2 8834 0 0
+-
+ip-95-221-118-217.bb.netbynet.ru
+0 1 1 4539 1 1313582122
+/
+p5dc61b95.dip.t-dialin.net
+0 1 1 3714 1 1313567383
+/qui-suis-je.htm
+msnbot-65-52-110-39.search.msn.com
+0 4 2 29132 2 1313163096
+/cours.htm
+crawl-66-249-66-179.googlebot.com
+0 1 1 4534 1 1312163622
+/
+144-197.198-178.cust.bluewin.ch
+0 2 2 0 1 1313336041
+/
+46.red-81-43-247.staticip.rima-tde.net
+0 31 25 9653506 1 1312484173
+/temoignages.htm
+crawl-66-249-66-26.googlebot.com
+0 2 2 12998 0 0
+-
+adsl-84-226-164-231.adslplus.ch
+0 89 89 11118939 1 1313782077
+/presentation.htm
+crawl-66-249-66-161.googlebot.com
+0 2 2 135383 0 0
+-
+58.61.164.139
+0 2 1 5503 1 1312189394
+/
+48-68.61-188.cust.bluewin.ch
+0 4 4 19593 1 1312673916
+/
+95-25-186-150.broadband.corbina.ru
+0 1 1 86736 0 0
+-
+85.4.184.156
+0 12 12 286615 1 1312818198
+/
+139.80-202-153.nextgentel.com
+0 2 1 5503 1 1312774120
+/
+95-27-207-101.broadband.corbina.ru
+0 1 0 969 0 0
+-
+254-81.198-178.cust.bluewin.ch
+0 9 9 154123 1 1313952300
+/contact.htm
+crawl-66-249-66-48.googlebot.com
+0 1 1 5627 1 1313060957
+/cours_inscription.php
+180.242.183.230
+0 1 1 5629 1 1313546905
+/cours_inscription.php
+crawl-66-249-71-195.googlebot.com
+0 1 1 3367 0 0
+-
+95-26-159-227.broadband.corbina.ru
+0 1 0 969 0 0
+-
+crawl-66-249-66-183.googlebot.com
+0 2 1 4539 2 1313370111
+/
+95-26-109-144.broadband.corbina.ru
+0 1 0 969 0 0
+-
+crawl11.exabot.com
+0 13 7 4267055 6 1313931179
+/cours_inscription.php
+any.57.147.212.vtx.ch
+0 122 122 6891616 1 1312557987
+/contact.htm
+crawl-66-249-66-59.googlebot.com
+0 5 4 112988 0 0
+-
+ks380405.kimsufi.com
+0 2 1 5508 1 1313035081
+/
+28-29.198-178.cust.bluewin.ch
+0 103 102 17463240 1 1313911900
+/creations.htm
+crawl-66-249-66-110.googlebot.com
+0 1 0 0 1 1312981470
+/detente-creative.htm
+stest00.yandex.ru
+0 3 1 6472 1 1312913740
+/
+crawl-66-249-66-218.googlebot.com
+0 3 3 92749 1 1313167675
+/
+crawl-66-249-66-41.googlebot.com
+0 1 0 0 1 1313661356
+/contact.htm
+www.whois.sc
+0 4 2 11011 2 1313775982
+/
+crawl-66-249-66-8.googlebot.com
+0 2 1 6670 1 1313704745
+/cours_inscription.php
+msnbot-65-52-108-191.search.msn.com
+0 2 0 969 1 1313319357
+/
+crawl-66-249-66-52.googlebot.com
+0 4 4 123744 0 0
+-
+ip-95-220-150-132.bb.netbynet.ru
+0 1 1 2499 0 0
+-
+msnbot-65-52-108-71.search.msn.com
+0 2 0 969 1 1312692327
+/art-therapie.htm
+90.168.212.134
+0 31 26 9673671 1 1313303684
+/temoignages.htm
+crawl-66-249-66-211.googlebot.com
+0 1 0 969 0 0
+-
+gkpc9.informatik.uni-leipzig.de
+0 14 13 101106 12 1313713402
+/
+natcrawlbloc03-33.net.m1.fti.net
+0 10 7 44235 7 1313913584
+/temoignages.htm
+crawl5.dotnetdotcom.org
+0 140 34 307625 15 1313063157
+/
+crawl-66-249-71-56.googlebot.com
+0 2 2 60438 0 0
+-
+crawl-66-249-66-1.googlebot.com
+0 1 1 5697 1 1313717606
+/cours_inscription.php
+msnbot-65-52-110-143.search.msn.com
+0 2 0 969 1 1313407401
+/
+crawl-66-249-72-180.googlebot.com
+0 1 0 0 1 1313681697
+/
+crawl-66-249-66-19.googlebot.com
+0 1 1 73343 0 0
+-
+crawl-66-249-71-245.googlebot.com
+0 1 0 0 1 1312629846
+/cours.htm
+147-204.76-83.cust.bluewin.ch
+0 32 20 393965 2 1312305161
+/qui-suis-je.htm
+c-98-226-116-70.hsd1.il.comcast.net
+0 31 25 9653506 1 1312431089
+/temoignages.htm
+msnbot-65-52-110-31.search.msn.com
+0 2 0 969 1 1312883547
+/cours.htm
+adsl-84-227-211-72.adslplus.ch
+0 53 53 1130453 1 1313613421
+/detente-creative.htm
+msnbot-65-52-110-71.search.msn.com
+0 4 1 24600 2 1313957279
+/cours.htm
+207.46.195.225
+0 2 0 969 1 1312970780
+/art-therapie.htm
+130-77.198-178.cust.bluewin.ch
+0 51 37 690083 1 1313345109
+/temoignages.htm
+msnbot-65-52-110-192.search.msn.com
+0 2 1 6921 1 1312881170
+/detente-creative.htm
+85.218.91.116
+0 33 33 589095 1 1312719198
+/cours.htm
+cust.static.84-253-31-57.cybernet.ch
+0 38 38 31961937 1 1312552481
+/cours.htm
+184-97-252-106.mpls.qwest.net
+0 2 1 5508 1 1313301703
+/
+crawl-66-249-66-165.googlebot.com
+0 2 2 149768 0 0
+-
+st-21-102-42-195.2dayhost.com
+0 12 10 72678 1 1313349180
+/cours_inscription.php
+89-159-242-199.rev.numericable.fr
+0 60 60 902740 1 1313611219
+/creations.htm
+msnbot-65-52-110-80.search.msn.com
+0 2 0 969 1 1313336546
+/temoignages.htm
+207.46.195.239
+0 2 0 969 1 1313586062
+/
+crawl-66-249-66-12.googlebot.com
+0 3 3 73033 0 0
+-
+imac-cmm7.unil.ch
+0 15 15 10582220 1 1312976768
+/
+177.8.18.95.dynamic.jazztel.es
+0 31 25 9653517 1 1313953499
+/temoignages.htm
+89-178-238-141.broadband.corbina.ru
+0 1 1 86736 0 0
+-
+msnbot-157-55-112-234.search.msn.com
+0 5 3 98632 1 1313020640
+/
+112-88.62-81.cust.bluewin.ch
+0 1 1 3457 0 0
+-
+29.173.120.78.rev.sfr.net
+0 14 14 9873491 1 1313112206
+/
+adsl-188-155-201-223.adslplus.ch
+0 87 87 11578660 1 1312208258
+/creations.htm
+crawl-66-249-66-23.googlebot.com
+0 1 1 26618 0 0
+-
+76-241.62-188.cust.bluewin.ch
+0 45 31 8991725 1 1312318180
+/cours.htm
+206.253.224.23
+0 2 2 9078 1 1313780058
+/
+crawl-66-249-66-187.googlebot.com
+0 1 1 4534 1 1312184974
+/
+14-176.104-92.cust.bluewin.ch
+0 13 13 8701164 1 1313512137
+/
+ip-95-221-117-208.bb.netbynet.ru
+0 1 1 4539 1 1313029559
+/
+217.193.142.180
+0 15 15 68050 8 1313200648
+/
+157.55.17.87
+0 3 2 13261 1 1313024370
+/temoignages.htm
+crawl-66-249-71-205.googlebot.com
+0 2 2 95323 0 0
+-
+msnbot-207-46-195-106.search.msn.com
+0 2 0 969 1 1313665110
+/cours.htm
+natcrawlbloc01-31.net.m1.fti.net
+0 10 7 161533 7 1313906421
+/cours.htm
+95-26-243-132.broadband.corbina.ru
+0 1 1 86736 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+157.55.16.221
+0 2 0 969 1 1313912326
+/
+crawl-66-249-66-5.googlebot.com
+0 1 0 969 0 0
+-
+69.171.224.250
+0 1 1 21123 0 0
+-
+178-24-159-165-dynip.superkabel.de
+0 1 1 5952 1 1313912608
+/detente-creative.htm
+208-115-111-67-reverse.wowrack.com
+0 13 0 12597 5 1313961616
+/
+95.143.198.91
+0 31 25 9653517 1 1313899054
+/temoignages.htm
+a89-182-33-206.net-htp.de
+0 1 1 8504 1 1313893463
+/creations.htm
+bigfinder.de
+0 3 3 13617 1 1313943253
+/
+desktop-153.tk.informatik.tu-darmstadt.de
+0 1 1 22660 1 1313934384
+/cours.htm
+207.46.204.182
+0 2 0 969 1 1313966146
+/
+193.252.118.174
+0 1 1 3714 1 1313903254
+/qui-suis-je.htm
+b3091110.crawl.yahoo.net
+0 10 6 35503 4 1313966997
+/qui-suis-je.htm
+77-20-40-169-dynip.superkabel.de
+0 2 1 9473 1 1313929280
+/creations.htm
+crawl-66-249-66-39.googlebot.com
+0 1 0 0 1 1313920282
+/
+157.55.18.12
+0 2 0 969 1 1313938577
+/
+217.82.63.81.cust.bluewin.ch
+0 1 0 0 0 0
+-
+124.115.6.12
+0 1 0 969 0 0
+-
+natcrawlbloc03.net.m1.fti.net
+0 1 1 5952 1 1313894163
+/detente-creative.htm
+77-20-40-173-dynip.superkabel.de
+0 2 2 6604 2 1313900239
+/presentation.htm
+niederhausen.tm.informatik.uni-leipzig.de
+0 1 1 5070 1 1313969962
+/art-therapie.htm
+dslb-088-069-133-133.pools.arcor-ip.net
+0 1 1 4539 1 1313920839
+/
+spider67.yandex.ru
+0 3 1 5508 2 1313940516
+/cours.htm
+254-81.198-178.cust.bluewin.ch
+0 9 9 154123 1 1313952300
+/contact.htm
+crawl11.exabot.com
+0 3 2 12227 1 1313931179
+/cours_inscription.php
+28-29.198-178.cust.bluewin.ch
+0 103 102 17463240 1 1313911900
+/creations.htm
+natcrawlbloc03-33.net.m1.fti.net
+0 1 1 5904 1 1313913584
+/temoignages.htm
+msnbot-65-52-110-71.search.msn.com
+0 2 0 969 1 1313957279
+/cours.htm
+177.8.18.95.dynamic.jazztel.es
+0 31 25 9653517 1 1313953499
+/temoignages.htm
+natcrawlbloc01-31.net.m1.fti.net
+0 1 1 22660 1 1313906421
+/cours.htm
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 2193
+http://whois.domaintools.com/vibraction.ch
+0 2
+http://www.vibraction.ch/art-therapie.htm
+1 94
+http://www.annuaire-artisan.ch/
+0 1
+http://vibraction.ch/cours.htm
+1 81
+http://www.etre-ange.com/fr/lien.html
+0 1
+http://vibraction.ch/css/style.css
+1 22
+http://vibraction.ch/flash/player.swf
+1 2
+http://www.google.com/search
+0 1
+http://www.vibraction.ch/index.htm
+1 6
+http://magazin.18x24.com/presse/
+0 2
+http://www.recto-verseau.ch/index.php
+0 1
+http://www.google.ch/search
+0 6
+http://vibraction.ch/
+1 117
+http://www.google.ch/imgres
+0 2
+http://www.vibraction.ch/css/style.css
+1 139
+http://www.vibraction.ch/
+1 496
+http://www.google.ch/url
+0 11
+http://www.suisse-romande.com/medecine-douce-massage.html
+0 3
+http://www.whorush.com/search/
+0 1
+http://www.vibraction.ch/igalerie_1.0.2/index.php
+1 5
+http://www.vibraction.ch/qui-suis-je.htm
+1 32
+http://vibraction.ch/creations.htm
+1 201
+http://yandex.ru/yandsearch
+0 4
+http://kennensiemich.ch/
+0 2
+http://www.vibraction.ch/flash/player.swf
+1 17
+http://www.vibraction.ch/detente-creative.htm
+1 38
+http://yellow.local.ch/en/q/Lausanne/Art therapy.html
+0 3
+http://www.semrush.com/fr/info/vibraction.ch
+0 2
+http://vibraction.ch/presentation.htm
+1 3
+http://vibraction.ch/index.htm
+1 5
+http://www.google.com/url
+0 1
+http://vibraction.ch/temoignages.htm
+1 2
+http://www.facebook.com/l.php
+0 2
+http://www.vibraction.ch/creations.htm
+1 929
+http://yellow.local.ch/fr/q/Lausanne/Thérapie individuelle.html
+0 1
+http://vibraction.ch/detente-creative.htm
+1 1
+http://www.les-cours.ch/1000/5/1017643/lausanne/atelier_vibraction/detail.htm
+0 1
+http://logistique.li/IPTCBOT
+0 1
+http://www.vibraction.ch/contact.htm
+1 16
+http://www.google.ca/url
+0 1
+http://www.annuaire-vaudois.ch/bien-etre/developpement-personnel/vibraction-lart-detre-soi.html
+0 1
+http://www.vibraction.ch/presentation.htm
+1 11
+http://vibraction.ch/art-therapie.htm
+1 8
+http://www.vibraction.ch/cours.htm
+1 431
+http://www.vibraction.ch/cours_inscription.php
+1 14
+http://www.vibraction.ch/temoignages.htm
+1 15
+http://www.trafficfaker.com
+0 1
+http://www.google.fr/url
+0 3
+http://www.bigfinder.de/
+0 6
+http://search.bluewin.ch/beta/index.php
+0 1
+http://www.google.fr/imgres
+0 4
+http://vibraction.ch/qui-suis-je.htm
+1 2
+http://www.google.co.ma/search
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gec
+0 4
+YahooCacheSystem
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider
+0 2
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 3
+Mozilla/5.0 (compatible; +http://www.websnap.ch/ )
+0 36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Ringo; Fun
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1
+0 2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-f
+0 9
+Googlebot-Image/1.0
+0 102
+Java/1.6.0_04
+0 31
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, li
+0 30
+Java/1.6.0_17
+0 62
+PycURL/7.19.5
+0 15
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like 
+0 58
+Java/1.6.0_20
+0 31
+Java/1.6.0_21
+0 31
+Java/1.6.0_22
+0 31
+Java/1.6.0_24
+0 93
+Java/1.6.0_26
+0 93
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
+0 451
+Mozilla/5.0 (iPad; U; CPU OS 3_2_2 like Mac OS X; fr-fr) Appl
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.10) Gec
+0 91
+Toplistbot
+0 90
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.
+0 140
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SLCC1;  .
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like G
+0 81
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {3D427E3C-
+0 1
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.5.24 Version/10.5
+0 11
+cmsworldmap.com
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SLCC1;  .
+0 5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; fr
+0 24
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5
+0 28
+Google/0.8.2.6553 CFNetwork/485.10.2 Darwin/10.3.1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 16
+Mozilla/5.0 (Windows NT 6.1; rv:5.0.1) Gecko/20100101 Firefox
+0 87
+findlinks/2.0.4 (+http://wortschatz.uni-leipzig.de/findlinks/
+0 5
+Mozilla/5.0 (compatible; MJ12bot/v1.4.0; http://www.majestic1
+0 25
+Mozilla/5.0 (Windows NT 6.0; rv:5.0) Gecko/20100101 Firefox/5
+0 30
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Tri
+0 202
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/53
+0 134
+findlinks/2.1.5 (+http://wortschatz.uni-leipzig.de/findlinks/
+0 2
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1
+0 2
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 5
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.01
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.6
+0 1
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {6A86477D-
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLC
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.
+0 90
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC
+0 1
+Mozilla/5.0 (compatible; IPTCBOT;
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; fr-fr) Appl
+0 83
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWe
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 38
+Java/1.4.1_04
+0 155
+Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; es-es) Appl
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Fi
+0 95
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like 
+0 15
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Tri
+0 25
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; x64
+0 2
+Mozilla/1.22 (compatible; MSIE 2.0d; Windows NT)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tri
+0 26
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/53
+0 267
+Mozilla/5.0+(compatible;+WebofantBot+v2.95;+http://www.webofa
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 57
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 2
+Mozilla/5.0 (compatible; Purebot/1.1; +http://www.puritysearc
+0 12
+MobileSafari/531.21.10 CFNetwork/467.12 Darwin/10.3.1
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x4.90)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) G
+0 61
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 76
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.
+0 89
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; .NE
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.0.19) Gec
+0 88
+Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webc
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like 
+0 14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; fr-fr) Appl
+0 155
+Jyxobot/1
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; {CD1ECED2-
+0 1
+UltraSpider3000/1.0 (+http://www.search.ch/rim.html)
+0 41
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.1.
+0 24
+Mozilla/4.0 (compatible; Powermarks/3.5; Windows 95/98/2000/N
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.2.
+0 30
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 222
+MobileSafari/6533.18.5 CFNetwork/485.13.9 Darwin/11.0.0
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {E4EE4F8C-
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.1; .N
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; th-th) Appl
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like G
+0 89
+Apple Mac OS X v10.6.8 CoreMedia v1.0.0.10K540
+0 16
+Apple Mac OS X v10.6.8 CoreMedia v1.0.0.10K549
+0 68
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org
+0 14
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 98
+AppleCoreMedia/1.0.0.8G4 (iPhone; U; CPU OS 4_3_1 like Mac OS
+0 3
+findlinks/2.0.2 (+http://wortschatz.uni-leipzig.de/findlinks/
+0 48
+Gigabot/3.0 (http://www.gigablast.com/spider.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0.1) Gecko/
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+MLBot (www.metadatalabs.com/mlbot)
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 122
+findlinks/2.1.3 (+http://wortschatz.uni-leipzig.de/findlinks/
+0 17
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaB
+0 90
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 12
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.
+0 45
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 4
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_1 like Mac OS X; fr
+0 28
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5
+0 59
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8e-fi
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; (R1 1.3); 
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; fr-fr) Appl
+0 86
+Mozilla/4.0
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.
+0 4
+QuickTime/7.6.9 (qtver=7.6.9;cpu=IA32;os=Mac 10.5.8)
+0 2
+AppleCoreMedia/1.0.0.8J2 (iPhone; U; CPU OS 4_3_3 like Mac OS
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={A9
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NE
+0 5
+findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/
+0 14
+Mozilla/5.0 (compatible; NerdByNature.Bot; http://www.nerdbyn
+0 78
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProd
+0 1
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NE
+0 3
+Apple Mac OS X v10.6.7 CoreMedia v1.0.0.10J869
+0 26
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.18) Gecko/20110
+0 14
+# End Of Table - agents
+# -search strings- 
+vibraction.ch
+5
+peinture encaustique fer repasser
+1
+art thérapie lausanne
+5
+atelier art therapie lausanne
+1
+vibraction lausanne
+1
+vibraction
+1
+avenue montoie 8
+1
+power tex
+1
+corinne dormond
+2
+www.vibraction.ch
+1
+arts thérapeutes a lausanne
+1
+powertex
+1
+photocopie ceramique transfer
+1
+art thérapie à lausanne
+1
+powertex photo
+1
+peinture à l'encaustique art-therapie
+1
+art-thérapeute lausanne
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

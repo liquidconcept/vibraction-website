@@ -1,0 +1,425 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #000; 
+	font-family: "Lucida Sans", "Lucida Grande",  sans-serif;
+	background: #fde8b1 url(../img/circle.png) center top no-repeat;
+	text-align: left;
+}
+
+h1,h2,h3,h4 {
+	color: #fff;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 24px;
+	margin: 0 0 10px 0;
+}
+
+p {
+	font-size: 12px;
+	margin: 10px 0;
+}
+p.right {
+	text-align: right;
+}
+p.note {
+	display: block;
+	text-align: center;
+	font-size: 16px;
+	color: #502466;
+	width: 70%;
+	margin: 10px auto 30px;
+	background-color: #fde8b1;
+	padding: 10px;
+}
+p.quote {
+	font-style: italic;
+	margin: 30px 40px;
+	color: #fff;
+	font-size: 18px;
+}
+
+a {
+	text-decoration: underline;
+	color: #cf5f01;
+}
+a:visited {
+	color: #af3f01;
+}
+
+a:hover,
+a:active {
+	text-decoration: underline;
+	color: #502466;
+}
+a img {
+	border: none;
+}
+p.center {
+	text-align: center;
+}
+ol, ul {
+	list-style: none none outside; 
+}
+
+hr.clear {
+	clear: both;
+	height: 0;
+	width:0;
+	border: none;
+	background: transparent;
+	margin: 0;
+	padding: 0;
+}
+table {
+	border: none:
+}
+table td {
+	vertical-align: top;
+}
+form p {
+	margin: 0 0 5px 0;
+}
+
+/*----------------*/
+/*      PAGE      */
+/*----------------*/ 
+#page {
+	width: 960px;
+	margin: 10px auto;
+	padding: 0;
+}
+
+/*----------------*/
+/*     HEADER     */
+/*----------------*/ 
+#header {
+  position: relative;
+	width: 960px;
+	height: 415px;
+	margin: 0;
+	padding: 0;
+	background: transparent url(../img/bg-top.png) no-repeat;
+}
+
+.title {
+	float: left;
+	width: 393px;
+	height: 351px;
+	margin: 10px;
+	background: transparent url(../img/logo.png) no-repeat;
+}
+.title a {
+	display: block;
+	width: 290px;
+	height: 90px;
+	margin: 35px 0 0 90px;
+	
+}
+.title a em,
+.title p {
+	display: none;
+}
+
+/*----------------*/
+/*      NAV       */
+/*----------------*/ 
+#nav {
+	display: block;
+	margin: 0;
+	padding: 81px 0 0 564px;
+}
+#nav ul li {
+	color: #fff;
+	font-size: 22px;
+	font-style: italic;
+	letter-spacing: .08em;
+	line-height: 44px;
+}
+#nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+#nav ul li a:hover {
+	color: #502466;
+}
+#nav ul li.current a {
+	color: #502466;
+}
+#nav ul li:hover {
+	color: #502466;	
+	list-style-image: url(../img/triangle.png);
+}
+
+
+#nav ul li.m1 {
+	margin-left: 67px;
+}
+#nav ul li.m2 {
+	margin-left: 68px;
+}
+#nav ul li.m3 {
+	margin-left: 64px;
+}
+#nav ul li.m4 {
+	margin-left: 57px;
+}
+#nav ul li.m5 {
+	margin-left: 42px;
+}
+#nav ul li.m6 {
+	margin-left: 27px;
+}
+#nav ul li.m7 {
+	margin-left: 0px;
+}
+#nav ul li.m8 {
+	margin-left: -30px;
+}
+
+/*----------------*/
+/*      MAIN      */
+/*----------------*/ 
+#main {
+	width: 960px;
+	margin: 0;
+	padding: 0;
+	background: transparent url(../img/bg.png) repeat-y;
+}
+#main .container {
+	width: 880px;
+	padding: 20px 40px;
+}
+#main h1 {
+	font-weight: normal;
+	border-bottom: 1px solid #fff;
+	margin: 0 0 20px 0;
+}
+#main h2 a {
+	color: #fff;
+	text-decoration: none;
+}
+#main ul,
+#main ol {
+	list-style: disc none outside;
+	margin: 20px 0 10px 40px;
+	color: #fff;
+}
+#main ul li,
+#main ol li {
+	margin: 0 0 10px 0;
+}
+
+.home-3col {
+	text-align: center;
+	font-size: 16px;
+	margin-top: 30px;
+}
+.home-3col .col1 {
+	float: left;
+	text-align: left;
+	width: 220px;
+	margin: 0 20px 0 0;
+}
+.home-3col .col2 {
+	float: left;
+	text-align: left;
+	width: 400px;
+}
+
+.home-3col .col3 {
+	float: right;
+	text-align: left;
+	width: 220px;
+	margin: 0 0 0 20px;
+}
+
+
+.twocol .col1 {
+	float: left;
+	margin: 0 20px 0 0;
+	width: 420px;
+}
+.twocol .col2 {
+	float: left;
+	margin: 0  0 0 20px;
+	width: 420px;
+}
+
+.twocol-2 ul {
+ color: #000 !important;
+}
+
+.twocol-2 .col1 {
+	float: left;
+	margin: 0 20px 0 0;
+	width: 520px;
+}
+.twocol-2 .col2 {
+	float: left;
+	width: 320px;
+	margin: 0  0 0 20px;
+}
+.twocol-2 .col2 ul li{
+	color: #000;
+	font-size: 12px;
+}
+
+.testimonials {
+	background: transparent url(../img/quote-top.png) top left no-repeat;
+}
+a .testimonials {
+	color: #000;
+}
+.testimonials .quote {
+	padding: 25px 0 20px;
+	background: transparent url(../img/quote-bottom.png) bottom right no-repeat;
+}
+.testimonials .quote p {
+	font-size: 16px;
+	font-family: georgia, serif;
+}
+.testimonials .quote p.name,
+p.name {
+	text-align: right;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+iframe {
+	margin: 0;
+	padding: 0;
+}
+
+#gallery img {
+	margin: 2px 0 2px 4px;
+}
+
+.temoignages h2 {
+	font-style: italic;
+}
+.course-box {
+	margin: 0;
+	padding: 0 0 0 0;
+	width: 400px;
+	background: transparent url(../img/box-top.png) top left no-repeat;
+}
+.course-box h2 {
+	font-style: italic;
+	font-size: 26px;
+	font-weight: normal;
+  line-height: 29px;
+	border-bottom: 1px solid #fff;
+	padding: 5px 0 3px 0;
+	margin: 0 5px 0 15px;
+  width: 275px;
+  height: 60px;
+}
+.course-box img {
+	float: right;
+	margin: 0 0 0 5px;
+}
+.course-box p {
+	margin: 0 15px;
+	padding: 4px 0;
+	font-size: 12px;
+	text-align: justify;
+}
+.course-box p.short-desc {
+	color: #fff;
+}
+.course-box .more {
+	display: block;
+  width: 100%;
+}
+.course-box .more .infos {
+	display: block;
+}
+.course-box .infos p {
+	color: #fff;
+	font-style: italic;
+}
+.course-box .course {
+	border-top : 1px solid #fff;
+	border-bottom : 1px solid #fff;
+	margin: 0 15px;
+}
+#main .course-box .course ul {
+	margin: 0;
+	padding: 10px 0;
+	list-style-position: inside;
+}
+#main .course-box .course ul li{
+	margin: 2px 0;
+	padding: 0;
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.course-box .course a.submit {
+	float: right;
+	margin-top: -32px;
+	margin-right: -20px;
+	width: 120px;
+	height: 30px;
+	background: transparent url(../img/button.png) top left no-repeat;
+	border: none;
+	text-indent: -900000px;
+	cursor: pointer;
+}
+.course-box .course .submit.full {
+	background: transparent url(../img/button-full.png) top left no-repeat;
+}
+
+.course-box-bottom {
+	margin: 0 0 15px 0;
+	padding: 0;
+	width: 400px;
+	height: 26px;
+	background: transparent url(../img/box-bottom.png) bottom left no-repeat;
+}
+.course-box-bottom p {
+	margin: 0;
+	padding: 5px 15px 0 0;
+	text-align: right;
+	font-size: .75em;
+	color: #000;
+}
+.course-box-bottom p a {
+	text-decoration: none;
+	color: #000;
+}
+#newsletter-form {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+/*----------------*/
+/*     FOOTER     */
+/*----------------*/ 
+#footer {
+	width: 960px;
+	height: 25px;
+	margin: 0;
+	padding: 8px 0 0 0;
+	background: transparent url(../img/bg-bottom.png) no-repeat;
+	color: #cf5f01;
+	font-size: 12px;
+	text-align: center;
+}
+
+#footer a {
+	color: #cf5f01;
+	text-decoration: none;
+}
+#footer a:hover,
+#footer a:active {
+	text-decoration: underline;
+	color: #502466;
+}
