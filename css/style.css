@@ -397,7 +397,26 @@ iframe {
 #newsletter-form {
   position: absolute;
   top: 30px;
-  right: 30px;
+  right: 160px;
+}
+#newsletter-form input{
+  border:1px solid #512565;
+  height:16px;
+  width:173px;
+}
+#newsletter-form .submit{
+  border:1px solid #512565;
+  color:#512565;
+  background-color:#F9C535;
+  padding-bottom:3px;
+  font-size:10px;
+  height:18px;
+  width:175px;
+}
+#newsletter-form .submit:hover{
+  border:1px solid #fff;
+  background-color:#512565;
+  color:#fff;
 }
 
 /*----------------*/
