@@ -1,120 +1,76 @@
-<!doctype html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <title>Vibraction - L'Art d'être Soi...</title>
-
-    <link rel="shortcut icon" href="favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" type="text/css" href="css/iefix.css" media="all" />
-    <![endif]-->
-    <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-    <script type="text/javascript" src="js/jquery.cycle.min.js"></script>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-          $('.testimonials').cycle({
-fx: 'fade',
-timeout: 10000,
-random: true,
-cleartypeNoBg: true
-});
-          });
+<% content_for :head do %>
+<script type="text/javascript">
+  $(document).ready(function() {
+      $('.testimonials').cycle({
+      fx: 'fade',
+      timeout: 10000,
+      random: true,
+      cleartypeNoBg: true
+      });
+            });
 </script>
-</head>
-<body>
-  <div id="page">
-    <div id="header">
-      <div class="title">
-        <h1><a href="index.htm"><em>Vibraction</em></a></h1>
-        <p>L'Art d'être Soi</p>
-      </div>
-      
-        <form action="http://lconcept.createsend.com/t/r/s/kraul/" method="post" id="newsletter-form">
-          <p><input type="text" name="cm-kraul-kraul" id="kraul-kraul" size="25" placeholder="Entrer votre email" /></p>
-          <p><input type="submit" class="submit" value="&nbsp;S'inscrire à la newsletter&nbsp;" /></p>
-        </form>
-      <div id="nav">
-        <ul class="menu">
-          <li class="m1"><a href="presentation.htm">Présentation</a></li>
-          <li class="m2"><a href="qui-suis-je.htm">Qui suis-je ?</a></li>
-          <li class="m3"><a href="art-therapie.htm">Art-Thérapie</a></li>
-          <li class="m4 current"><a href="detente-creative.htm">Détente Créative</a></li>
-          <li class="m5"><a href="cours.htm">Cours &amp; Ateliers</a></li>
-          <li class="m6"><a href="temoignages.htm">Témoignages</a></li>
-          <li class="m7"><a href="creations.htm">Créations</a></li>
-          <li class="m8"><a href="contact.htm">Contact</a></li>
+<% end %>
+<div id="main">
+  <div class="container">
+    <h1>Détente Créative</h1>
+    <div class="twocol-2">
+      <div class="col1">
+        <p>Comme le disait Jean-Jacques Rousseau :<p>
+        <p class="quote">« Le monde de la réalité a ses limites ;<br/>
+        le monde de l’imagination est sans frontières. »</p>
+        <p>Ces ateliers sont <strong>une invitation à découvrir, explorer et expérimenter</strong> ; à faire parfois appel à son intuition, mais surtout à apprivoiser des techniques et se laisser porter au gré de ses envies et de son imagination.</p>
+        <h2 id="powertex">Technique 1 : Powertex &reg;</h2>
+        <p>La gamme Powertex® est une nouvelle génération de <strong>durcisseurs de textiles.</strong> Une alternative écologique à base d’eau qui vous permet de solidifier tous les matériaux qui l’absorbent. Il peut se combiner avec différentes matières, notamment avec la poudre Powertex® « Stone art » et divers pigments ; <strong>les possibilités de créations sont infinies.</strong></p>
+        <p>Bienvenue dans le monde des réalisations en 3D, des tableaux, des statuettes, ou autre ; des décorations intérieures comme extérieures aux propriétés imperméables, aux résultats solides et durables.</p>
+        <p>Vous avez une photo ou un texte que vous affectionnez tout particulièrement ? Réaliser une « œuvre » en l’incrustant à l’aide du powerprint ; une technique additionnelle du Powertex® qui permet le transfert de photocopies Laser sur différents supports, tel que toiles, tissus, carton, bois, céramique, métal et autre.</p>
+        <p>L’apprentissage de cette technique passe par plusieurs niveaux.<p>
+        <ul>
+          <li>Niveau I: Base de la technique et connaissance du produit</li>
+          <li>Niveau II et III: Techniques additionnelles (powerprint, objets en équilibre, …) </li>
         </ul>
+        <p>Chaque cours peut accueillir plusieurs niveaux. Vous êtes accompagné pas à pas dans la réalisation de l’« œuvre » de votre choix.</p>
+
+        <h2 id="encaustique">Technique 2 : L’encaustique</h2>
+        <p><strong>Laissez-vous envahir par la magie de cette technique de hasard, mais qui peut également « s’apprivoiser ».</strong></p>
+        <p>L’encaustique est une technique de peinture qui utilise non pas un pinceau, mais un fer à repasser ou à embosser et de la cire. Il est possible de réaliser des tableaux, des cartes de vœux, des toiles, ... </p>
+        <p>Que cela soit pour faire de l'abstrait en se laissant guider par son intuition ou du concret comme la réalisation d'un paysage, ce cours est une invitation à la découverte et à la détente.</p>
+        <p><strong>Les couleurs qui se mélangent au gré de vos mouvements, vous offrent à chaque instant une image unique.</strong></p>
+        <p>Pour plus de renseignements, <a href="contact.htm">contactez-moi</a></p>
+
+
       </div>
-    </div>
+      <div class="col2">
+        <a href="temoignages.htm">
+          <div class="testimonials">
+            <div class="quote">
+              <p>Merveilleux !! Super moment de détente !</p>
+              <p class="name">Christine</p>
+              <p>Un espace pour créer librement et découvrir, un espace pour bénéficier des conseils éclairés de Corinne, un espace : Vibraction ! </p>
+              <p class="name">Sabine</p>
+            </div>
 
+            <div class="quote">
+              <p>Découverte, humour, rire… quel bonheur de passer du temps avec Corinne.</p>
+              <p class="name">Sonia</p>
+              <p>J’ai eu beaucoup de plaisir à apprendre à me détendre et ne penser à rien, vider ma tête de tous les soucis et stress du quotidien. Merci.</p>
+              <p class="name">Brigitte</p>
+            </div>
 
-    <div id="main">
-      <div class="container">
-        <h1>Détente Créative</h1>
-        <div class="twocol-2">
-          <div class="col1">
-            <p>Comme le disait Jean-Jacques Rousseau :<p>
-            <p class="quote">« Le monde de la réalité a ses limites ;<br/>
-            le monde de l’imagination est sans frontières. »</p>
-            <p>Ces ateliers sont <strong>une invitation à découvrir, explorer et expérimenter</strong> ; à faire parfois appel à son intuition, mais surtout à apprivoiser des techniques et se laisser porter au gré de ses envies et de son imagination.</p>
-            <h2 id="powertex">Technique 1 : Powertex &reg;</h2>
-            <p>La gamme Powertex® est une nouvelle génération de <strong>durcisseurs de textiles.</strong> Une alternative écologique à base d’eau qui vous permet de solidifier tous les matériaux qui l’absorbent. Il peut se combiner avec différentes matières, notamment avec la poudre Powertex® « Stone art » et divers pigments ; <strong>les possibilités de créations sont infinies.</strong></p>
-            <p>Bienvenue dans le monde des réalisations en 3D, des tableaux, des statuettes, ou autre ; des décorations intérieures comme extérieures aux propriétés imperméables, aux résultats solides et durables.</p>
-            <p>Vous avez une photo ou un texte que vous affectionnez tout particulièrement ? Réaliser une « œuvre » en l’incrustant à l’aide du powerprint ; une technique additionnelle du Powertex® qui permet le transfert de photocopies Laser sur différents supports, tel que toiles, tissus, carton, bois, céramique, métal et autre.</p>
-            <p>L’apprentissage de cette technique passe par plusieurs niveaux.<p>
-            <ul>
-              <li>Niveau I: Base de la technique et connaissance du produit</li>
-              <li>Niveau II et III: Techniques additionnelles (powerprint, objets en équilibre, …) </li>
-            </ul>
-            <p>Chaque cours peut accueillir plusieurs niveaux. Vous êtes accompagné pas à pas dans la réalisation de l’« œuvre » de votre choix.</p>
-
-            <h2 id="encaustique">Technique 2 : L’encaustique</h2>
-            <p><strong>Laissez-vous envahir par la magie de cette technique de hasard, mais qui peut également « s’apprivoiser ».</strong></p>
-            <p>L’encaustique est une technique de peinture qui utilise non pas un pinceau, mais un fer à repasser ou à embosser et de la cire. Il est possible de réaliser des tableaux, des cartes de vœux, des toiles, ... </p>
-            <p>Que cela soit pour faire de l'abstrait en se laissant guider par son intuition ou du concret comme la réalisation d'un paysage, ce cours est une invitation à la découverte et à la détente.</p>
-            <p><strong>Les couleurs qui se mélangent au gré de vos mouvements, vous offrent à chaque instant une image unique.</strong></p>
-            <p>Pour plus de renseignements, <a href="contact.htm">contactez-moi</a></p>
-
+            <div class="quote">
+              <p>Du plaisir, le plaisir de se lâcher, de tester, de s’amuser.</p>
+              <p class="name">Marie-Claude</p>
+              <p>Des ateliers créatifs, calmes et animés qui m’ont beaucoup plus !</p>
+              <p class="name">Sarah</p>
+            </div>
 
           </div>
-          <div class="col2">
-            <a href="temoignages.htm">
-              <div class="testimonials">
-                <div class="quote">
-                  <p>Merveilleux !! Super moment de détente !</p>
-                  <p class="name">Christine</p>
-                  <p>Un espace pour créer librement et découvrir, un espace pour bénéficier des conseils éclairés de Corinne, un espace : Vibraction ! </p>
-                  <p class="name">Sabine</p>
-                </div>
+        </a>
 
-                <div class="quote">
-                  <p>Découverte, humour, rire… quel bonheur de passer du temps avec Corinne.</p>
-                  <p class="name">Sonia</p>
-                  <p>J’ai eu beaucoup de plaisir à apprendre à me détendre et ne penser à rien, vider ma tête de tous les soucis et stress du quotidien. Merci.</p>
-                  <p class="name">Brigitte</p>
-                </div>
+        <h2>Dates des cours</h2>
+        <p>Retrouvez toutes les dates sur la page des <a href="./cours.htm">cours&nbsp;et&nbsp;ateliers</a>.</p>
 
-                <div class="quote">
-                  <p>Du plaisir, le plaisir de se lâcher, de tester, de s’amuser.</p>
-                  <p class="name">Marie-Claude</p>
-                  <p>Des ateliers créatifs, calmes et animés qui m’ont beaucoup plus !</p>
-                  <p class="name">Sarah</p>
-                </div>
-
-              </div>
-            </a>
-
-            <h2>Dates des cours</h2>
-            <p>Retrouvez toutes les dates sur la page des <a href="./cours.htm">cours&nbsp;et&nbsp;ateliers</a>.</p>
-
-          </div>
-          <hr class="clear" />
-        </div>
       </div>
+      <hr class="clear" />
     </div>
-    <div id="footer">© 2010 Vibraction - Corinne Dormond  -  Av. de Montoie 8  - CH-1007 Lausanne  +41 79 417 87 25  <a href="mailto:info@vibraction.ch">info@vibraction.ch</a> - CCP 10-258525-1 </div>
   </div>
-</body>
-</html>
+</div>

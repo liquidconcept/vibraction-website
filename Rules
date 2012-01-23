@@ -13,8 +13,24 @@ compile '/stylesheets/*/' do
   filter :sass, Compass.sass_engine_options
 end
 
-compile '/javascript/*/' do
+compile '/javascripts/*/' do
 end
+
+compile '/favicon/' do
+end
+
+compile '/flash/*/' do
+end
+
+compile '/htaccess/' do
+end
+
+compile '/photos/*/' do
+end
+
+compile '/video/*/' do
+end
+
 
 compile '*' do
   filter :erb
@@ -30,7 +46,6 @@ route '/images/' do
   item.identifier.chop + '.' + item[:extension]
 end
 
-
 route '/stylesheets/_*/' do
 end
 
@@ -40,6 +55,10 @@ end
 
 route '/javascript/*/' do
   item.identifier.chop + '.js'
+end
+
+route '/htaccess/' do
+  '/.htaccess'
 end
 
 route '*' do

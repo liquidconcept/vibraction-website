@@ -1,1 +1,52 @@
-<%= yield %>
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>Vibraction - L'Art d'être Soi...</title>
+
+  <link rel="shortcut icon" href="favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/jquery.lightbox-0.5.css" media="screen" />
+
+  <!--[if lt IE 8]>
+  <link rel="stylesheet" type="text/css" href="css/iefix.css" media="all" />
+  <![endif]-->
+  <script type="text/javascript" src="javascripts/jquery.js"></script>
+  <script type="text/javascript" src="javascripts/jquery.cycle.js"></script>
+  <script type="text/javascript" src="javascripts/jquery.lightbox.js"></script>
+
+  <%= content_for(@item, :head) %>
+  
+</head>
+<body>
+  <div id="page">
+    <div id="header">
+      <div class="title">
+        <h1><a href="index.htm"><em>Vibraction</em></a></h1>
+        <p>L'Art d'être Soi</p>
+      </div>
+      
+      <form action="http://lconcept.createsend.com/t/r/s/kraul/" method="post" id="newsletter-form">
+        <p><input type="text" name="cm-kraul-kraul" id="kraul-kraul" size="25" placeholder="Entrer votre email" /></p>
+        <p><input type="submit" class="submit" value="&nbsp;S'inscrire à la newsletter&nbsp;" /></p>
+      </form>
+      <div id="nav">
+        <ul class="menu">
+          <li class="m1"><a href="presentation.htm">Présentation</a></li>
+          <li class="m2"><a href="qui-suis-je.htm">Qui suis-je ?</a></li>
+          <li class="m3"><a href="art-therapie.htm">Art-Thérapie</a></li>
+          <li class="m4"><a href="detente-creative.htm">Détente Créative</a></li>
+          <li class="m5"><a href="cours.htm">Cours &amp; Ateliers</a></li>
+          <li class="m6"><a href="temoignages.htm">Témoignages</a></li>
+          <li class="m7"><a href="creations.htm">Créations</a></li>
+          <li class="m8"><a href="contact.htm">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <%= yield %>
+
+    <div id="footer">© 2010 Vibraction - Corinne Dormond  -  Av. de Montoie 8  - CH-1007 Lausanne  +41 79 417 87 25  <a href="mailto:info@vibraction.ch">info@vibraction.ch</a> - CCP 10-258525-1 </div>
+  </div>
+</body>
+</html>
