@@ -269,6 +269,11 @@ form p {
 	color: #000;
 	font-size: 12px;
 }
+.twocol-2 .bas {
+	float: left;
+	width: 320px;
+	margin: 0  50px 0 20px;
+}
 
 .testimonials {
 	background: transparent url(../images/quote-top.png) top left no-repeat;
@@ -313,12 +318,12 @@ iframe {
 	font-style: italic;
 	font-size: 26px;
 	font-weight: normal;
-  line-height: 29px;
+  	line-height: 29px;
 	border-bottom: 1px solid #fff;
 	padding: 5px 0 3px 0;
 	margin: 0 5px 0 15px;
-  width: 275px;
-  height: 60px;
+  	width: 275px;
+  	height: 60px;
 }
 .course-box img {
 	float: right;
