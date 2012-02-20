@@ -63,7 +63,7 @@ end
 
 route '*' do
   if item.children.size > 0 || item.identifier == '/'
-    item.identifier + 'index.html'
+    item.identifier + 'index.htm'
   else
     item.identifier.gsub(/\/$/, '') + '.' + item[:extension]
   end
