@@ -258,21 +258,26 @@ form p {
 .twocol-2 .col1 {
 	float: left;
 	margin: 0 20px 0 0;
-	width: 520px;
+	width: 420px;
 }
 .twocol-2 .col2 {
 	float: left;
-	width: 320px;
+	width: 420px;
 	margin: 0  0 0 20px;
 }
 .twocol-2 .col2 ul li{
 	color: #000;
 	font-size: 12px;
 }
-.twocol-2 .bas {
+.bas1 {
 	float: left;
-	width: 320px;
-	margin: 0  50px 0 20px;
+	margin: 20px 20px 0 0;
+	width: 420px;
+}
+.bas2 {
+	float: left;
+	width: 420px;
+	margin: 20px  0 0 20px;
 }
 
 .testimonials {
@@ -303,6 +308,24 @@ iframe {
 
 #gallery img {
 	margin: 2px 0 2px 4px;
+}
+
+.images-three {
+	margin: 0 auto;
+	width: 316px;
+}
+.images-three a {
+	float: left;
+	margin-bottom: 30px;
+
+}
+.images-two {
+	margin: 65px auto;
+	width: 212px;
+}
+.images-two a {
+	float: left;
+	margin-bottom: 30px;
 }
 
 .temoignages h2 {
