@@ -251,19 +251,22 @@ form p {
 	width: 420px;
 }
 
+.tworow .row1 {
+	height: 360px;
+}
+
 .twocol-2 ul {
  color: #000 !important;
 }
 
 .twocol-2 .col1 {
-	float: left;
-	margin: 0 20px 0 0;
-	width: 420px;
+	float:left;
+	width: 410px;
 }
 .twocol-2 .col2 {
-	float: left;
-	width: 420px;
-	margin: 0  0 0 20px;
+	float: right;
+	width: 410px;
+
 }
 .twocol-2 .col2 ul li{
 	color: #000;
@@ -310,21 +313,12 @@ iframe {
 	margin: 2px 0 2px 4px;
 }
 
-.images-three {
-	margin: 0 auto;
-	width: 400px;
-}
-.images-three a {
-	float: left;
-	margin-bottom: 30px;
-
-}
 .images-two {
-	margin: 65px auto;
+	margin: 0 auto 30px auto;
+	float:left;
 	width: 400px;
 }
 .images-two a {
-	float: left;
 	margin-bottom: 30px;
 }
 
