@@ -394,6 +394,25 @@ iframe {
 	text-indent: -900000px;
 	cursor: pointer;
 }
+
+ul.first {
+	li {
+		margin-bottom: 10px !important;
+
+		a.submit_line {
+			float: right;
+			margin-top: 0px;
+			margin-right: -20px;
+			width: 120px;
+			height: 30px;
+			background: transparent url(../images/button.png) top left no-repeat;
+			border: none;
+			text-indent: -900000px;
+			cursor: pointer;
+		}
+	}
+}
+
 .course-box .course .submit.full {
 	background: transparent url(../images/button-full.png) top left no-repeat;
 }
