@@ -2,4 +2,5 @@
 /tmp
 /public
 .DS_Store
-
+crash.log
+log/

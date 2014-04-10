@@ -64,7 +64,7 @@ p.center {
 	text-align: center;
 }
 ol, ul {
-	list-style: none none outside; 
+	list-style: none none outside;
 }
 
 hr.clear {
@@ -88,7 +88,7 @@ form p {
 
 /*----------------*/
 /*      PAGE      */
-/*----------------*/ 
+/*----------------*/
 #page {
 	width: 960px;
 	margin: 10px auto;
@@ -97,7 +97,7 @@ form p {
 
 /*----------------*/
 /*     HEADER     */
-/*----------------*/ 
+/*----------------*/
 #header {
   position: relative;
 	width: 960px;
@@ -119,7 +119,7 @@ form p {
 	width: 290px;
 	height: 90px;
 	margin: 35px 0 0 90px;
-	
+
 }
 .title a em,
 .title p {
@@ -128,7 +128,7 @@ form p {
 
 /*----------------*/
 /*      NAV       */
-/*----------------*/ 
+/*----------------*/
 #nav {
 	display: block;
 	margin: 0;
@@ -152,7 +152,7 @@ form p {
 	color: #502466;
 }
 #nav ul li:hover {
-	color: #502466;	
+	color: #502466;
 	list-style-image: url(../images/triangle.png);
 }
 
@@ -184,7 +184,7 @@ form p {
 
 /*----------------*/
 /*      MAIN      */
-/*----------------*/ 
+/*----------------*/
 #main {
 	width: 960px;
 	margin: 0;
@@ -376,13 +376,23 @@ iframe {
 	padding: 10px 0;
 	list-style-position: inside;
 }
+
 #main .course-box .course ul li{
+	margin: 2px 0;
+	padding: 0;
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#main .course-box .course ul.first li{
 	margin: 15px 0;
 	padding: 0;
 	color: #000;
 	font-size: 12px;
 	font-weight: bold;
 }
+
 .course-box .course a.submit {
 	float: right;
 	margin-top: -32px;
@@ -462,7 +472,7 @@ ul.first {
 
 /*----------------*/
 /*     FOOTER     */
-/*----------------*/ 
+/*----------------*/
 #footer {
 	width: 960px;
 	height: 25px;
