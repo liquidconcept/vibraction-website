@@ -4,7 +4,7 @@
 }
 
 body {
-	color: #000; 
+	color: #000;
 	font-family: "Lucida Sans", "Lucida Grande",  sans-serif;
 	background: #fde8b1 url(../images/circle.png) center top no-repeat;
 	text-align: left;
@@ -377,7 +377,7 @@ iframe {
 	list-style-position: inside;
 }
 #main .course-box .course ul li{
-	margin: 2px 0;
+	margin: 15px 0;
 	padding: 0;
 	color: #000;
 	font-size: 12px;
