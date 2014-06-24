@@ -251,6 +251,15 @@ form p {
 	width: 420px;
 }
 
+.temoignages1 > div {
+	margin-top: 30px;
+}
+
+a.etf > img {
+	width: 420px;
+	margin-top: 268px;
+}
+
 .tworow .row1 {
 	height: 360px;
 }
