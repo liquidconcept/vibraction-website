@@ -24,6 +24,7 @@ p {
 	font-size: 12px;
 	margin: 10px 0;
 }
+
 p.right {
 	text-align: right;
 }
@@ -42,6 +43,16 @@ p.quote {
 	margin: 30px 40px;
 	color: #fff;
 	font-size: 18px;
+}
+
+p.etf_quote {
+	color: white;
+	text-align: center;
+}
+
+span.important {
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 a {
@@ -257,7 +268,7 @@ form p {
 
 a.etf > img {
 	width: 420px;
-	margin-top: 268px;
+	margin-top: 322px;
 }
 
 .tworow .row1 {
