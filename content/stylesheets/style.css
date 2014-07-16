@@ -48,6 +48,8 @@ p.quote {
 p.etf_quote {
 	color: white;
 	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 span.important {
