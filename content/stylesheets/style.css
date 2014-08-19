@@ -48,7 +48,7 @@ p.quote {
 p.etf_quote {
 	color: white;
 	text-align: center;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: bold;
 }
 
@@ -252,6 +252,9 @@ form p {
 	margin: 0 0 0 20px;
 }
 
+.eft {
+	float: right !important;
+}
 
 .twocol .col1 {
 	float: left;
@@ -270,11 +273,7 @@ form p {
 
 a.etf > img {
 	width: 420px;
-	margin-top: 365px;
-}
-
-.tworow .row1 {
-	height: 360px;
+	margin-top: 20px;
 }
 
 .twocol-2 ul {
