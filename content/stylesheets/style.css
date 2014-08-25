@@ -52,6 +52,10 @@ p.etf_quote {
 	font-weight: bold;
 }
 
+.bold {
+	font-weight: bold;
+}
+
 span.important {
 	text-decoration: underline;
 	font-weight: bold;
