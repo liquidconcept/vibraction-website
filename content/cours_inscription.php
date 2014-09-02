@@ -6,9 +6,14 @@ header('Content-type: text/html; charset=utf-8');
 <div class="container">
   <h1>Inscription à un cours</h1>
   <p>Merci de complèter le formulaire d'inscription ci-dessous. Je vous contacterai dans les prochains jours pour vous donner les informations complémentaires liées au cours que vous venez de choisir.</p>
+  <?php if ($_GET['callback'] == 'success') {  ?>
+    <p class="info-succes">Votre email a bien été envoyé</p>
+  <?php } else if ($_GET['callback'] == 'error') { ?>
+    <p class="info-error">Votre email n'a pas été envoyé</p>
+  <?php } ?>
   <div class="twocol">
     <div class="col1">
-      <form action="http://www.123pulp.com/form_php/sendmail.php" method="post">
+      <form action="./sendmail_cours.php" method="post">
           <input name="process" value="1" type="hidden" />
 
           <input name="email_to" value="info@vibraction.ch" type="hidden" />

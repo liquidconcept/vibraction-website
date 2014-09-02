@@ -12,7 +12,8 @@
 
         <br/>
         <p>Vous pouvez m'écrire un message grâce à ce formulaire :</p>
-        <form action="http://www.123pulp.com/form_php/sendmail.php" method="post">
+
+        <form action="./sendmail_contact.php" method="post">
           <input name="process" value="1" type="hidden" />
 
           <input name="email_to" value="info@vibraction.ch" type="hidden" />
@@ -33,16 +34,16 @@
             <tr>
               <td><input name="input_list[adresse]" value="Adresse" type="hidden" />
                 <p><label for="adresse-rue-1">Rue</label></p></td>
-              <td><p><input id="adresse-rue-1" class="text" name="adresse[]" size="40" type="text" /><br />
-                <input id="adresse-rue-2" class="text" name="adresse[]" size="40" type="text" /></p></td>
+              <td><p><input id="adresse-rue-1" class="text" name="adresse_1" size="40" type="text" /><br />
+                <input id="adresse-rue-2" class="text" name="adresse_2" size="40" type="text" /></p></td>
             </tr>
             <tr>
               <td><p><label for="npa">NPA</label> </p></td>
-              <td><p><input id="npa" class="text" name="adresse[]" size="5" type="text" /></p></td>
+              <td><p><input id="npa" class="text" name="npa" size="5" type="text" /></p></td>
             </tr>
             <tr>
               <td><p><label for="ville">Ville</label> </p></td>
-              <td><p><input id="ville" class="text" name="adresse[]" size="40" type="text" /></p></td>
+              <td><p><input id="ville" class="text" name="city" size="40" type="text" /></p></td>
             </tr>
             <tr>
               <td><input name="input_list[email_from]" value="E-Mail" type="hidden" />
@@ -57,7 +58,7 @@
             <tr>
               <td><input name="input_list[message]" value="Message" type="hidden" />
                 <p><label for="message">Message</label></p></td>
-              <td><p><textarea id="message" class="text" name="message" cols="40" rows="10" ></textarea></p></td>
+              <td><p><textarea id="message" class="text" name="comment" cols="40" rows="10" ></textarea></p></td>
             </tr>
           </table>
 
@@ -82,5 +83,5 @@
     </div>
   </div>
 </div>
- 
+
 

@@ -103,6 +103,14 @@ form p {
 	margin: 0 0 5px 0;
 }
 
+.info-succes {
+	color: #0F0;
+}
+
+.info-error {
+	color: #F00;
+}
+
 /*----------------*/
 /*      PAGE      */
 /*----------------*/
