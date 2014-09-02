@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: vibraction_development
   pool: 5
-  username: ludovicturmel
+  username:
   password:
   host: localhost
 
@@ -12,7 +12,7 @@ test:
   encoding: unicode
   database: vibraction_test
   pool: 5
-  username: ludovicturmel
+  username:
   password:
   host: localhost
 
