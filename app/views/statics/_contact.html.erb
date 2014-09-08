@@ -1,0 +1,87 @@
+<div id="main">
+  <div class="container">
+    <h1>Contact</h1>
+    <div class="twocol">
+      <div class="col1">
+        <p><strong>Vibraction</strong><br/>
+        Corinne Dormond<br/>
+        Av. Villardin 9<br/>
+        1009 Pully </p>
+        <p>Mobile : 079 417 87 25<br/>
+        e-mail : <a href="mailto:info@vibraction.ch">info@vibraction.ch</a></p>
+
+        <br/>
+        <p>Vous pouvez m'écrire un message grâce à ce formulaire :</p>
+
+        <form action="./sendmail_contact.php" method="post">
+          <input name="process" value="1" type="hidden" />
+
+          <input name="email_to" value="info@vibraction.ch" type="hidden" />
+          <input name="email_subject" value="Vibraction.ch - Formulaire de contact" type="hidden" />
+
+
+          <table>
+            <tr>
+              <td><input name="input_list[nom]" value="Nom" type="hidden" />
+                <p><label for="nom">Nom</label></p></td>
+              <td><p><input id="nom" class="text" name="nom" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><input name="input_list[prenom]" value="Prénom" type="hidden" />
+                <p><label for="prenom">Prénom</label></p></td>
+              <td><p><input id="prenom" class="text" name="prenom" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><input name="input_list[adresse]" value="Adresse" type="hidden" />
+                <p><label for="adresse-rue-1">Rue</label></p></td>
+              <td><p><input id="adresse-rue-1" class="text" name="adresse_1" size="40" type="text" /><br />
+                <input id="adresse-rue-2" class="text" name="adresse_2" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><p><label for="npa">NPA</label> </p></td>
+              <td><p><input id="npa" class="text" name="npa" size="5" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><p><label for="ville">Ville</label> </p></td>
+              <td><p><input id="ville" class="text" name="city" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><input name="input_list[email_from]" value="E-Mail" type="hidden" />
+                <p><label for="email_from">Email</label></p></td>
+              <td><p><input id="email_from" class="text" name="email_from" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><input name="input_list[tel]" value="Tél." type="hidden" />
+                <p><label for="tel">Téléphone</label></p></td>
+              <td><p><input id="tel" class="text" name="tel" size="40" type="text" /></p></td>
+            </tr>
+            <tr>
+              <td><input name="input_list[message]" value="Message" type="hidden" />
+                <p><label for="message">Message</label></p></td>
+              <td><p><textarea id="message" class="text" name="comment" cols="40" rows="10" ></textarea></p></td>
+            </tr>
+          </table>
+
+
+          <p class="right">Merci pour votre message!
+
+          <input name="redirect_to" value="http://www.vibraction.ch" type="hidden" />
+          <input class="submit" name="submit" value="Envoyer" type="submit" /></p>
+        </form>
+
+      </div>
+      <div class="col2">
+
+        <iframe width="420" height="350" src="http://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Av.+Villardin+9,+1009+Pully&amp;aq=&amp;sll=46.507143,6.654056&amp;sspn=0.005679,0.016512&amp;ie=UTF8&amp;hq=&amp;hnear=Avenue+de+Villardin+9,+1009+Pully,+Vaud&amp;t=m&amp;z=14&amp;iwloc=&amp;ll=46.507014,6.654059&amp;output=embed"></iframe><br /><small><a href="http://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Av.+Villardin+9,+1009+Pully&amp;aq=&amp;sll=46.507143,6.654056&amp;sspn=0.005679,0.016512&amp;ie=UTF8&amp;hq=&amp;hnear=Avenue+de+Villardin+9,+1009+Pully,+Vaud&amp;t=m&amp;z=14&amp;iwloc=&amp;ll=46.507014,6.654059">Agrandir le plan</a></small>
+
+        <p>Depuis St-François : Bus n°8 arrêt "Les Châtaigniers", l'atelier Vibraction se trouve à moins de 3 minutes à pied.</p>
+        <p>Depuis la gare de Pully : Bus n°47 arrêt "Les Châtaigniers", l'atelier Vibraction se trouve en face de l'arrêt ou compter 10 minutes à pieds pour descendre.</p>
+        <p>Il y a des places de parc en zone bleue et blanche dans les alentours.</p>
+
+      </div>
+      <hr class="clear" />
+    </div>
+  </div>
+</div>
+
+

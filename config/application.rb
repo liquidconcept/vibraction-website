@@ -22,5 +22,7 @@ module RailsWebsite
 
     # Load rep params
     config.eager_load_paths << Rails.root.join('app/params')
+    config.assets.paths << Rails.root.join('app/assets/video', 'app/assets/images')
+    config.assets.enabled = true
   end
 end

@@ -3,12 +3,54 @@
 <head>
   <title>Vibraction - L'Art d'être Soi...</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application' %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <div id="page">
+    <div id="header">
+      <div class="title">
+        <h1><a href="home.htm"><em>Vibraction</em></a></h1>
+        <p>L'Art d'être Soi</p>
+      </div>
 
-<%= yield %>
+      <form action="http://lconcept.createsend.com/t/r/s/kraul/" method="post" id="newsletter-form">
+        <p><input type="text" name="cm-kraul-kraul" id="kraul-kraul" size="25" placeholder="Entrer votre email" /></p>
+        <p><input type="submit" class="submit" value="&nbsp;S'inscrire à la newsletter&nbsp;" /></p>
+      </form>
+      <div id="nav">
+        <ul class="menu">
+          <li class="m1"><a href="presentation.htm">Présentation</a></li>
+          <li class="m2"><a href="qui.htm">Qui suis-je ?</a></li>
+          <li class="m3"><a href="therapies.htm">Thérapies</a></li>
+          <li class="m4"><a href="detente.htm">Détente Créative</a></li>
+          <li class="m5"><a href="cours.htm">Cours &amp; Ateliers</a></li>
+          <li class="m6"><a href="temoignages.htm">Témoignages</a></li>
+          <li class="m7"><a href="creations.htm">Créations</a></li>
+          <li class="m8"><a href="contact.htm">Contact</a></li>
+        </ul>
+      </div>
+    </div>
 
+    <div class="container">
+      <%= yield %>
+    </div>
+
+    <div id="footer">© 2010-2012 Vibraction - Corinne Dormond  -  Av. Villardin 9 - CH-1009 Pully   +41 79 417 87 25  <a href="mailto:info@vibraction.ch">info@vibraction.ch</a> - CCP 10-258525-1 </div>
+    </div>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2241355-14']);
+      _gaq.push(['_setDomainName', 'vibraction.ch']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
+
+     </script>
 </body>
 </html>

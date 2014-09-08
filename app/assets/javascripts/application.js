@@ -1,16 +1,34 @@
-// This is a manifest file that'll be compiled into application.js, which will include all the files
-// listed below.
-//
-// Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
-// or vendor/assets/javascripts of plugins, if any, can be referenced here using a relative path.
-//
-// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
-// compiled file.
-//
-// Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
-// about supported directives.
-//
 //= require jquery
-//= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require jquery-cycle
+//= require jquery-lightbox
+
+$(function() {
+  // Cycle page therapies
+  $('.testimonials').cycle({
+    fx: 'fade',
+    timeout: 10000,
+    random: true,
+    cleartypeNoBg: true
+  });
+
+  // Lightbox page tharapies
+  $('#gallery a').lightBox(); // Select all links in object with gallery ID
+
+  // Toggle content cours
+  $('a.submit:not(.full)').bind('click', function(e) {
+    e.stopImmediatePropagation();
+    });
+
+  $('a.submit.full').bind('click', function(e) {
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    });
+
+  $('.more').hide();
+
+  $('.course-box').bind('mouseenter', function() {
+    $(this).find('.more:hidden').slideDown();
+    }).bind('click', function() {
+      $(this).find('.more:visible').slideUp();
+    });
+});
