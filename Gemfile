@@ -8,6 +8,8 @@ gem 'rails_config'
 
 gem 'pg'
 
+gem 'devise'
+
 # assets
 gem 'compass-rails'
 gem 'sass-rails'

@@ -1,0 +1,38 @@
+@import "bootstrap";
+
+/*----------------------------------------*/
+/*                SESSIONS                */
+/*----------------------------------------*/
+
+.sessions {
+  width: 250px;
+  margin: 0 auto;
+
+  .field > input {
+    width: 220px;
+    height: 30px !important;
+    margin-bottom: 20px;
+  }
+
+  .remember {
+    margin-bottom: 20px;
+  }
+}
+
+/*----------------------------------------*/
+/*                 ADMIN                  */
+/*----------------------------------------*/
+
+.logout_admin {
+  float: right;
+}
+
+.content-admin {
+  width: 960px;
+  padding: 20px 0px;
+  margin: 0 auto;
+
+  h2 {
+    margin: 0px 0px;
+  }
+}
