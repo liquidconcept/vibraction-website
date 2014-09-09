@@ -6,8 +6,11 @@ class AdminsController < ApplicationController
 
   layout 'admin'
 
+  def show
+  end
+
   def import
-    Product.import(params[:file])
-    redirect_to root_url, notice: "Products imported."
+    Agenda.import(params[:file])
+    redirect_to admin_path, notice: "Agenda mise à jour"
   end
 end

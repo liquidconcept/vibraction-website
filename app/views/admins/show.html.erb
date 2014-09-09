@@ -1,0 +1,10 @@
+<h2>Vibraction admin</h2>
+<p>Veuillez charger votre fichier CSV</p>
+<% if !notice.nil? %>
+  <div class="alert alert-success" role="alert"><%= notice %></div>
+<% end %>
+<%= form_tag import_admin_path, multipart: true do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag "Importe CSV", class: 'btn btn-success' %>
+<% end %>
+<hr />
