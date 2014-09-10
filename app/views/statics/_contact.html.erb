@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Contact</h1>
     <div class="twocol">
-      <div class="col1">
+      <div class="col1 contact">
         <p><strong>Vibraction</strong><br/>
         Corinne Dormond<br/>
         Av. Villardin 9<br/>
@@ -13,62 +13,23 @@
         <br/>
         <p>Vous pouvez m'écrire un message grâce à ce formulaire :</p>
 
-        <form action="./sendmail_contact.php" method="post">
-          <input name="process" value="1" type="hidden" />
+        <%= form_for @contact, url: {action: "create"} do |f| %>
+          <% if flash[:notice] %><p class="alert-notice"><%= flash[:notice] %></p><% end %>
+          <% if flash[:error] %><p class="alert-error"><%= flash[:error] %></p><% end %>
 
-          <input name="email_to" value="info@vibraction.ch" type="hidden" />
-          <input name="email_subject" value="Vibraction.ch - Formulaire de contact" type="hidden" />
+          <%= f.text_field :firstname, placeholder: 'Prénom' %>
+          <%= f.text_field :lastname, placeholder: 'Nom' %>
+          <%= f.text_field :street, placeholder: 'Rue' %>
+          <%= f.text_field :npa, class: 'npa', placeholder: 'NPA' %>
+          <%= f.text_field :city, placeholder: 'Ville' %>
+          <%= f.text_field :email, placeholder: 'Email' %>
+          <%= f.text_field :phone, placeholder: 'Téléphone' %>
+          <%= f.text_area :message, placeholder: 'Message' %>
 
-
-          <table>
-            <tr>
-              <td><input name="input_list[nom]" value="Nom" type="hidden" />
-                <p><label for="nom">Nom</label></p></td>
-              <td><p><input id="nom" class="text" name="nom" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><input name="input_list[prenom]" value="Prénom" type="hidden" />
-                <p><label for="prenom">Prénom</label></p></td>
-              <td><p><input id="prenom" class="text" name="prenom" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><input name="input_list[adresse]" value="Adresse" type="hidden" />
-                <p><label for="adresse-rue-1">Rue</label></p></td>
-              <td><p><input id="adresse-rue-1" class="text" name="adresse_1" size="40" type="text" /><br />
-                <input id="adresse-rue-2" class="text" name="adresse_2" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><p><label for="npa">NPA</label> </p></td>
-              <td><p><input id="npa" class="text" name="npa" size="5" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><p><label for="ville">Ville</label> </p></td>
-              <td><p><input id="ville" class="text" name="city" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><input name="input_list[email_from]" value="E-Mail" type="hidden" />
-                <p><label for="email_from">Email</label></p></td>
-              <td><p><input id="email_from" class="text" name="email_from" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><input name="input_list[tel]" value="Tél." type="hidden" />
-                <p><label for="tel">Téléphone</label></p></td>
-              <td><p><input id="tel" class="text" name="tel" size="40" type="text" /></p></td>
-            </tr>
-            <tr>
-              <td><input name="input_list[message]" value="Message" type="hidden" />
-                <p><label for="message">Message</label></p></td>
-              <td><p><textarea id="message" class="text" name="comment" cols="40" rows="10" ></textarea></p></td>
-            </tr>
-          </table>
-
-
-          <p class="right">Merci pour votre message!
-
-          <input name="redirect_to" value="http://www.vibraction.ch" type="hidden" />
-          <input class="submit" name="submit" value="Envoyer" type="submit" /></p>
-        </form>
-
+          <div class="submit">
+            <%= f.submit :Envoyer, class: 'submit_button btn btn-success' %>
+          </div>
+        <% end %>
       </div>
       <div class="col2">
 

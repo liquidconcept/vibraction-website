@@ -5,6 +5,8 @@ Rails.application.routes.draw do
     collection { post :import }
   end
 
+  resource :static, only: [:create]
+
   get '' => 'statics#show', as: 'root'
   get '*page' => 'statics#show'
 end
