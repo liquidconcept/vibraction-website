@@ -2,7 +2,6 @@ class StaticsController < ApplicationController
   def show
     @page = params[:page]
     @page = 'home' if @page.nil?
-    @agendas = Agenda.order(:number && :group)
     @contact = Contact.new
   end
 
