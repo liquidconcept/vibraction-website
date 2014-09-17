@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 gem 'rails', '4.1.1'
+gem 'rails-i18n', '~> 4.0.0'
 gem 'turbolinks'
 gem 'rails_config'
 
@@ -33,13 +34,10 @@ end
 
 # Development environment dependencies (also needed by test environement)
 group :development, :test do
-  gem 'pry-rails'
-  gem 'pry-remote'
-  gem 'pry-debugger'
-  gem 'hirb-unicode'
-
+  gem 'rspec-rails', '~> 3.0.0'
   gem 'redcarpet'
   gem 'yard'
+  gem 'factory_girl'
 end
 
 # Dependencies should be load only in development environment
@@ -47,3 +45,15 @@ group :development do
   gem 'spring'
 end
 
+# Guard dependencies
+group :guard do
+  gem 'guard'
+
+  gem 'guard-bundler'
+  gem 'guard-pow'
+  gem 'guard-rspec'
+  gem 'guard-cucumber'
+  gem 'guard-teaspoon'
+
+  gem 'rb-readline', platforms: :ruby
+end

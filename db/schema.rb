@@ -11,18 +11,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140908144555) do
+ActiveRecord::Schema.define(version: 20140916150624) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "agendas", force: true do |t|
     t.string  "name"
-    t.integer "number"
+    t.integer "identifier"
     t.integer "group"
-    t.date    "date"
-    t.time    "time_start"
-    t.time    "time_end"
+    t.time    "start_at"
+    t.time    "end_at"
+    t.integer "session"
+    t.boolean "full"
   end
 
   create_table "users", force: true do |t|

@@ -1,0 +1,5 @@
+fr-CH:
+  time:
+    formats:
+      agenda_start: "%A %d.%m.%y de %kh%M"
+      agenda_end: " à %kh%M"

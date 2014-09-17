@@ -3,6 +3,25 @@
 <% if !notice.nil? %>
   <div class="alert alert-success" role="alert"><%= notice %></div>
 <% end %>
+<% if @errors %>
+  <% if @errors.empty? %>
+    <div class="box">
+      <h2>Vous avez une erreur dans votre CSV</h2><br/>
+      <ul>
+        <% @errors.sort.each do |agenda, errors| %>
+          <li>
+            <h3>Nom :<%= agenda.name %>et session :<%= agenda.session %>:</h3>
+            <ul>
+              <% errors.each_full do |message| %>
+                <li><%= message %></li>
+              <% end %>
+            </ul>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+<% end %>
 <%= form_tag import_admin_path, multipart: true do %>
   <%= file_field_tag :file %>
   <%= submit_tag "Importe CSV", class: 'btn btn-success' %>
