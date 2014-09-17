@@ -18,9 +18,13 @@
               Durée : 7h sur 1 atelier</p>
             </div>
           </div>
-          <div class="course">
-             <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Encaustique&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(1000).empty? %>
+            <%= date_of_course(1000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Powertex">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
       </div>
@@ -41,9 +45,13 @@
               Durée : 10h sur 4 ateliers</p>
             </div>
           </div>
-          <div class="course">
-             <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Encaustique&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(2000).empty? %>
+            <%= date_of_course(2000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Encaustique">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
       </div>
@@ -68,9 +76,13 @@
               Durée : 7h30 sur 3 ateliers</p>
             </div>
           </div>
-          <div class="course">
-             <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Encaustique&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(3000).empty? %>
+            <%= date_of_course(3000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=La vie en plus !">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
 
@@ -88,16 +100,13 @@
               Durée : 12h sur 4 ateliers</p>
             </div>
           </div>
-            <% Agenda.groups.each do |group| %>
-              <div class="course">
-                <ul>
-                  <% Agenda.group_scope(group).futur_time.order(number: :asc).each do |item| %>
-                    <li><%= item.date.strftime("%A") %> <%= item.date.strftime("%d.%m.%y") %> de <%= item.time_start.strftime("%H:%M") %> à <%= item.time_end.strftime("%H:%M") %></li>
-                  <% end %>
-                </ul>
-                <a href="./inscription.html?cours_name=<%= Agenda.group_scope(group).first.name %>&cours_date=<%= Agenda.group_scope(group).first.date.strftime("%d.%m.%y") %> - <%= Agenda.group_scope(group).last.date.strftime("%d.%m.%y") %>" class="submit">S'inscrire</a>
-              </div>
-            <% end %>
+          <% if !date_of_course(5000).empty? %>
+            <%= date_of_course(5000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=La force de la nature">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
 
@@ -115,9 +124,13 @@
               Durée : 20h sur 8 ateliers</p>
             </div>
           </div>
-          <div class="course">
-            <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Rencontre avec Soi&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(7000).empty? %>
+            <%= date_of_course(7000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Rencontre avec Soi">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
       </div>
@@ -136,9 +149,13 @@
               Durée : 15h sur 6 ateliers</p>
             </div>
           </div>
-          <div class="course">
-            <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Renforcer ma confiance&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(4000).empty? %>
+            <%= date_of_course(4000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Renforcer ma confiance">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
 
         </div>
         <div class="course-box-bottom">&nbsp;</div>
@@ -157,9 +174,13 @@
               Durée : 7h30 sur 3 ateliers</p>
             </div>
           </div>
-          <div class="course">
-             <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Encaustique&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(8000).empty? %>
+            <%= date_of_course(8000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Créateur de ma vie">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
 
@@ -177,9 +198,13 @@
               Durée : 20h sur 8 ateliers</p>
             </div>
           </div>
-          <div class="course">
-             <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Une parenthèse pour un meilleur équilibre&cours_date=">le formulaire d’inscription</a></p>
-          </div>
+          <% if !date_of_course(6000).empty? %>
+            <%= date_of_course(6000) %>
+          <% else %>
+            <div class="course">
+               <p>Date à venir – vous pouvez faire part de votre intérêt via <a href="./inscription.html?cours_name=Une parenthèse pour un meilleur équilibre">le formulaire d’inscription</a></p>
+            </div>
+          <% end %>
         </div>
         <div class="course-box-bottom">&nbsp;</div>
       </div>

@@ -31,4 +31,8 @@ $(function() {
     }).bind('click', function() {
       $(this).find('.more:visible').slideUp();
     });
+
+     if ($('a.submit').hasClass('true')) {
+      $('a.true').addClass('full');
+     }
 });
