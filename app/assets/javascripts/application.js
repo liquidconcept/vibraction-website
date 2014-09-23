@@ -14,6 +14,15 @@ $(function() {
   // Lightbox page tharapies
   $('#gallery a').lightBox(); // Select all links in object with gallery ID
 
+   if ($('a.submit').hasClass('true')) {
+    $('a.true').addClass('full');
+    $('a.true').css('cursor', 'default');
+   }
+
+   $('a.submit.full').attr('href', '#', function() {
+      preventDefault();
+   });
+
   // Toggle content cours
   $('a.submit:not(.full)').bind('click', function(e) {
     e.stopImmediatePropagation();
@@ -31,8 +40,4 @@ $(function() {
     }).bind('click', function() {
       $(this).find('.more:visible').slideUp();
     });
-
-     if ($('a.submit').hasClass('true')) {
-      $('a.true').addClass('full');
-     }
 });
