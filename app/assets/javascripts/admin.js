@@ -1,12 +1,13 @@
 //= require jquery
+//= require jquery_ujs
 
 $(function() {
-  $('input:submit').attr('disabled', true);
+  $('input:submit.upload').attr('disabled', true);
   $('input:file').change(function(){
     if ($(this).val()){
-      $('input:submit').removeAttr('disabled');
+      $('input:submit.upload').removeAttr('disabled');
     } else {
-      $('input:submit').attr('disabled', true);
+      $('input:submit.upload').attr('disabled', true);
     }
   });
 });
