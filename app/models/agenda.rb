@@ -9,7 +9,8 @@ class Agenda < ActiveRecord::Base
     session: 'Session',
     start_at: ['Date', 'Debut'],
     end_at: ['Date', 'Fin'],
-    full: 'Plein'
+    full: 'Plein',
+    destroy: 'Effacer'
   }.freeze
 
   scope :by_identifier, ->(identifier) { where("identifier = ?", identifier) }
@@ -30,6 +31,11 @@ class Agenda < ActiveRecord::Base
         }).first
         agenda ||= Agenda.new
 
+        if row[CSV_COLUMNS[:destroy]].to_s.strip.upcase == 'EFFACER'
+          agenda.destroy unless agenda.new_record?
+          next
+        end
+
         Agenda.transaction do
           CSV_COLUMNS.each do |attribute, column_key|
             case attribute
@@ -39,7 +45,7 @@ class Agenda < ActiveRecord::Base
             when :full
               agenda[attribute] = row[column_key] == 'oui'
             else
-              agenda[attribute] = row[column_key]
+              agenda[attribute] = row[column_key] if agenda.has_attribute?(attribute)
             end
           end
 
