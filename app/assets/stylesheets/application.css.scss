@@ -8,7 +8,7 @@
 body {
   color: #000;
   font-family: "Lucida Sans", "Lucida Grande",  sans-serif;
-  background: url('circle.png') center top no-repeat;
+  background: asset-url('circle.png') center top no-repeat;
   background-color: #fde8b1;
   text-align: left;
 }
@@ -132,7 +132,7 @@ form p {
   height: 415px;
   margin: 0;
   padding: 0;
-  background: transparent url('bg-top.png') no-repeat;
+  background: transparent asset-url('bg-top.png') no-repeat;
 }
 
 .title {
@@ -140,7 +140,7 @@ form p {
   width: 393px;
   height: 351px;
   margin: 10px;
-  background: transparent url('logo.png') no-repeat;
+  background: transparent asset-url('logo.png') no-repeat;
 }
 .title a {
   display: block;
@@ -181,7 +181,7 @@ form p {
 }
 #nav ul li:hover {
   color: #502466;
-  list-style-image: url('triangle.png');
+  list-style-image: asset-url('triangle.png');
 }
 
 
@@ -217,7 +217,7 @@ form p {
   width: 960px;
   margin: 0;
   padding: 0;
-  background: transparent url('bg.png') repeat-y;
+  background: transparent asset-url('bg.png') repeat-y;
 }
 #main .container {
   width: 880px;
@@ -320,14 +320,14 @@ a.etf > img {
 }
 
 .testimonials {
-  background: transparent url('quote-top.png') top left no-repeat;
+  background: transparent asset-url('quote-top.png') top left no-repeat;
 }
 a .testimonials {
   color: #000;
 }
 .testimonials .quote {
   padding: 25px 0 20px;
-  background: transparent url('quote-bottom.png') bottom right no-repeat;
+  background: transparent asset-url('quote-bottom.png') bottom right no-repeat;
 }
 .testimonials .quote p {
   font-size: 16px;
@@ -365,7 +365,7 @@ iframe {
   margin: 0;
   padding: 0 0 0 0;
   width: 400px;
-  background: transparent url('box-top.png') top left no-repeat;
+  background: transparent asset-url('box-top.png') top left no-repeat;
 }
 .course-box h2 {
   font-style: italic;
@@ -435,7 +435,7 @@ iframe {
   margin-right: -20px;
   width: 120px;
   height: 30px;
-  background: transparent url('button.png') top left no-repeat;
+  background: transparent asset-url('button.png') top left no-repeat;
   border: none;
   text-indent: -900000px;
   cursor: pointer;
@@ -451,7 +451,7 @@ ul.first {
       margin-right: -20px;
       width: 120px;
       height: 30px;
-      background: transparent url('button.png') top left no-repeat;
+      background: transparent asset-url('button.png') top left no-repeat;
       border: none;
       text-indent: -900000px;
       cursor: pointer;
@@ -460,7 +460,7 @@ ul.first {
 }
 
 .course-box .course .submit.full {
-  background: transparent url('button-full.png') top left no-repeat;
+  background: transparent asset-url('button-full.png') top left no-repeat;
   cursor: default;
 }
 
@@ -469,7 +469,7 @@ ul.first {
   padding: 0;
   width: 400px;
   height: 26px;
-  background: transparent url('box-bottom.png') bottom left no-repeat;
+  background: transparent asset-url('box-bottom.png') bottom left no-repeat;
 }
 .course-box-bottom p {
   margin: 0;
@@ -548,7 +548,7 @@ ul.first {
   height: 25px;
   margin: 0;
   padding: 8px 0 0 0;
-  background: transparent url('bg-bottom.png') no-repeat;
+  background: transparent asset-url('bg-bottom.png') no-repeat;
   color: #cf5f01;
   font-size: 12px;
   text-align: center;
