@@ -25,5 +25,16 @@ module RailsWebsite
     config.eager_load_paths << Rails.root.join('app/params')
     config.assets.paths << Rails.root.join('app/assets/video', 'app/assets/images')
     config.assets.enabled = true
+
+    # configure mailer smtp
+    config.action_mailer.smtp_settings = {
+      address:              'smtp.mandrillapp.com',
+      port:                 587,                        # ports 587 and 2525 are also supported with STARTTLS
+      enable_starttls_auto: true,                       # detects and uses STARTTLS
+      authentication:       'login',                    # Mandrill supports 'plain' or 'login'
+      user_name:            Rails.application.secrets.mandrill_username,
+      password:             Rails.application.secrets.mandrill_password,
+      domain:               'liquid-concept.ch'         # your domain to identify your server when connecting
+    }
   end
 end
