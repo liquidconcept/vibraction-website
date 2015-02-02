@@ -13,10 +13,10 @@ class StaticsController < ApplicationController
       Mailers.contact(@contact).deliver
 
       @contact = Contact.new
-      render "statics/_contact.html.erb"
+      redirect_to request.referrer
     else
       flash[:error] = "Erreur ! Compléter le fomulaire"
-      render "statics/_contact.html.erb"
+      redirect_to request.referrer
     end
   end
 
