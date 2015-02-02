@@ -8,7 +8,7 @@
         <% if flash[:notice] %><p class="alert-notice"><%= flash[:notice] %></p><% end %>
         <% if flash[:error] %><p class="alert-error"><%= flash[:error] %></p><% end %>
         <%= f.text_field :cours, placeholder: 'cours', value: params[:cours_name] %>
-        <%= f.text_field :date, placeholder: 'Dates', value: params[:cours_date] %>
+        <%= f.text_field :date, placeholder: 'Dates', value: DateTime.parse(params[:cours_date]).strftime("%d.%m.%Y - %H:%M")  %>
         <%= f.text_field :firstname, placeholder: 'Prénom' %>
         <%= f.text_field :lastname, placeholder: 'Nom' %>
         <%= f.text_field :street, placeholder: 'Rue' %>
