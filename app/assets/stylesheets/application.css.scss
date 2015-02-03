@@ -459,6 +459,10 @@ ul.first {
   }
 }
 
+.submit {
+  display: block !important;
+}
+
 .course-box .course .submit.full {
   background: transparent asset-url('button-full.png') top left no-repeat;
   cursor: default;

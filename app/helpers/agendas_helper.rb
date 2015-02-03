@@ -8,7 +8,7 @@ module AgendasHelper
 
         content_tag(:div, class: 'course') do
           content_tag(:ul, dates_html(dates)) +
-          content_tag(:a, 'inscription', class: "submit #{button_class}" , href: "./inscription.html?cours_name=#{dates.first.name}&cours_date=#{dates.first.start_at}")
+          content_tag(:a, 'inscription', class: "submit#{button_class}" , href: "./inscription.html?cours_name=#{dates.first.name}&cours_date=#{dates.first.start_at}")
         end
       end
     end.join.html_safe
