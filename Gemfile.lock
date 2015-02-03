@@ -239,7 +239,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass
-  capistrano
+  capistrano (= 3.2.1)
   capistrano-bundler
   capistrano-git-push
   capistrano-rails

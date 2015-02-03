@@ -21,7 +21,7 @@ gem 'uglifier'
 gem 'therubyracer', platforms: :ruby
 
 group :deploy do
-  gem 'capistrano'
+  gem 'capistrano', '3.2.1'
   gem 'capistrano-git-push'
   gem 'capistrano-rvm'
   gem 'capistrano-bundler'
